@@ -70,3 +70,29 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+/*
+   Sharing
+   =================== */
+/* This gets Google to fall into place */
+.social {
+	font-size: 1px;
+  margin-bottom: 20px;
+}
+ 
+/* This gets Facebook to fall into place */
+.social .fb-like {
+	vertical-align: bottom;
+}
+ 
+/* Set an optional width for your button wrappers */
+.social span {
+	display: inline-block;
+	margin-right: 10px;
+}
+ 
+/* Adjust the widths individually if you like */
+.social .google {
+//	width: 75px;
+}
+
