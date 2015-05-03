@@ -1,0 +1,77 @@
+# Site wide configuration
+
+title: Modern Day Fuwjax
+locale: en_US
+url: http://fuwjax.github.io
+timezone: America/Chicago
+encoding: utf-8
+
+future: false
+lsi: false
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      category: post
+      comments: true
+
+# Jekyll configuration
+
+permalink:   /:year/:month/:title.html
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-redirect-from
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+  input: GFM
+
+# Site owner
+owner:
+  name: #Michael Doberenz
+  publisher: Fuwjax
+  web: http://fuwjax.com
+  email: fuwjax@gmail.com
+  bio: "<span title='or Wonkavision'>It's perfect.<br/>It's unbelievable.<br/>It's a miracle<br/>It's a TV dinner.<br/>It's Fuwjax.</span>"
+  avatar: #filename
+  twitter: fuwjax
+  facebook:
+    user: fuwjax
+    appId: "676843389125714"
+  google:
+    plus: MikeDoberenz
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  disqus-shortname: 
+  bing-verify: 
+  github: fuwjax
+  stackoverflow: 315943/fuwjax
+  linkedin: mikedoberenz
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: fuwjax
+  dribbble: #username
+  youtube: fuwjax
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

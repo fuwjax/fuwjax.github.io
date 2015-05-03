@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: Everything
+  url: /posts/
+
+- title: The Way
+  url: /tag/the-way/
+
+- title: Story Time
+  url: /tag/story-time/
+  
+- title: Carbon-14
+  url: /tag/carbon-14/
+  
+- title: Bare with Me
+  url: /tag/bare-with-me/
+  
+- title: Sanguine Maroon
+  url: /tag/sanguine-maroon/
+
+- title: Offering
+  url: /tag/offering/
+  
+- title: De Machina
+  url: /tag/de-machina/
