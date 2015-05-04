@@ -20,7 +20,7 @@ defaults:
 
 # Jekyll configuration
 
-permalink:   /:year/:month/:title.html
+permalink:   /:title
 markdown:    kramdown
 highlighter: pygments
 sass:

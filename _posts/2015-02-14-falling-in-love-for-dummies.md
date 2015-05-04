@@ -4,6 +4,7 @@ title: Falling in Love for Dummies
 date: '2015-02-14T16:50:00.000-06:00'
 tags: 
 - carbon-14
+excerpt: Falling in love means looking forward to becoming someone else with someone else. 
 modified_time: '2015-02-14T16:50:00.208-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-9099883327216959492
 blogger_orig_url: http://fuwjax.blogspot.com/2015/02/falling-in-love-for-dummies.html
@@ -18,7 +19,7 @@ These days we have lots of ways of connecting with people - networking events, o
 
 It makes me a little sick to write that last sentence, but be honest, when was the last time you got to know someone just for the sake of knowing them? 
 
-Falling in love means two things - being excited about the long term potential of a budding relationship, and being open to the slow, subtle, inevitable shift in identity that comes from the realization of that potential. Put another way, falling in love means looking forward to becoming someone else. 
+Falling in love means two things - being excited about the long term potential of a budding relationship, and being open to the slow, subtle, inevitable shift in identity that comes from the realization of that potential. Put another way, falling in love means looking forward to becoming someone else with someone else. 
 
 Just to be clear, I do not mean some sort of exclusive, soul-mate, squishy, lust-till-the-poetry-ends Hollywood version of falling in love. This isn't about the movie ending. This is about life long relationships with people you can, and more importantly, want to grow old with. 
 

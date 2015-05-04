@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Mom's Request
+title: Mom's Request (Timmy Counts to Five)
+slug: moms-request
 date: '2014-04-21T21:24:00.000-05:00'
 tags: 
 - story-time
+excerpt: '"There’s a fly in my soup! What do I do?" Asked Timmy of his mom as he stared at his stew.'
 modified_time: '2014-04-21T23:12:49.915-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6511389425836178923
 blogger_orig_url: http://fuwjax.blogspot.com/2014/04/moms-request.html

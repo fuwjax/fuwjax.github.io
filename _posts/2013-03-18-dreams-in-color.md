@@ -4,6 +4,7 @@ title: Dreams in Color
 date: '2013-03-18T19:42:00.000-05:00'
 tags: 
 - offering
+excerpt: Some people leave you better than they found you.
 modified_time: '2013-03-18T19:42:17.698-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-3426746903761854659
 blogger_orig_url: http://fuwjax.blogspot.com/2013/03/dreams-in-color.html

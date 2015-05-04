@@ -4,6 +4,7 @@ title: Him in You in Him
 date: '2012-09-02T05:45:00.000-05:00'
 tags: 
 - bare-with-me
+excerpt: It may come as quite the surprise, but I have on occasion been known to analyze the circumstances - and people - in my life.
 modified_time: '2012-09-02T05:45:47.364-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-3668004511028443742
 blogger_orig_url: http://fuwjax.blogspot.com/2012/09/him-in-you-in-him.html

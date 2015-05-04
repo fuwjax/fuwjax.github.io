@@ -4,6 +4,7 @@ title: Deus Ex Cardboard
 date: '2012-07-15T05:34:00.000-05:00'
 tags: 
 - bare-with-me
+excerpt: I tried to record what I couldn't write.
 modified_time: '2012-07-15T05:42:55.465-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6411085889658728502
 blogger_orig_url: http://fuwjax.blogspot.com/2012/07/deus-ex-cardboard.html

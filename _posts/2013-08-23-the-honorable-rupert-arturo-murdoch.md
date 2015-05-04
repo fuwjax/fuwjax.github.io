@@ -4,6 +4,7 @@ title: The Honorable Rupert Arturo Murdoch
 date: '2013-08-23T20:28:00.000-05:00'
 tags: 
 - story-time
+excerpt: Rupert A. Murdoch lived on a beach along a long cliff within easy reach...
 modified_time: '2013-08-25T17:37:52.628-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4497411480850195758
 blogger_orig_url: http://fuwjax.blogspot.com/2013/08/the-honorable-rupert-arturo-murdoch.html

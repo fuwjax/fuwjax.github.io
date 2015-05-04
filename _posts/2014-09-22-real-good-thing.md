@@ -4,6 +4,7 @@ title: Real Good Thing
 date: '2014-09-22T22:29:00.000-05:00'
 tags: 
 - bare-with-me
+excerpt: Some days are worth celebrating because they aren't the day they were a year ago.
 modified_time: '2014-09-23T11:13:03.065-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6626219566798209334
 blogger_orig_url: http://fuwjax.blogspot.com/2014/09/real-good-thing.html

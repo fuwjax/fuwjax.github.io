@@ -4,6 +4,7 @@ title: Legal Status FTW
 date: '2013-04-09T04:47:00.000-05:00'
 tags: 
 - bare-with-me
+excerpt: Legal status is the pretty-pink-bow-on-a-pig way of saying legal discrimination.
 modified_time: '2013-04-09T04:47:54.340-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5558359966105123956
 blogger_orig_url: http://fuwjax.blogspot.com/2013/04/legal-status-ftw.html
