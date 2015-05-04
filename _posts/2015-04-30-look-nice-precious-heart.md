@@ -18,9 +18,9 @@ And these were the words that resonated up and down her spine, eliciting smile a
 
 "You look nice today."
 
-Of course, she always looks nice. It's not just that she enjoys the affirmation. Affirmation is lovely, but it doesn't echo. When someone says "you look nice," she hears "you look the way you make me feel." She tries hard to be that little flash, that sparkle, the light that makes mankind sit back and delight in the warmth and brightness of the sun. Not that she tries to be the sun, only its reflection; and when her reflection bounces back in a simple sincere compliment, is it any wonder that it continues its bouncing journey that it might touch all her nooks and crannies - the recesses of her spirit?
+Of course, she always looks nice. It's not just that she enjoys the affirmation. Affirmation is lovely, but it doesn't echo. When someone says "you look nice," she hears "you look the way you make me feel." She tries hard to be that little flash, that sparkle, the light that makes mankind sit back and delight in the warmth and brightness of the sun. Not that she tries to be the sun, only its reflection; and when her reflection bounces back in a simple sincere compliment, is it any wonder that it continues its bouncing journey among all her nooks and crannies - the recesses of her spirit?
 
-She longs to be seen, to be witnessed, for her contribution to be recognized as valuable. She strives to nurture and be nurtured, to be pushed into open embrace with the people who become swept up as dolphins and tuna in the nets of her compassion trawler that she might set them all free to be freer - more them that she might be more her. 
+She longs to be seen, to be witnessed, for her contribution to be recognized as valuable. She strives to nurture and be nurtured, to be pushed into open embrace with the people who become swept up as dolphins and tuna in the nets of her compassion trawler that she might set them all free to be more free - more them that she might be more her. 
 
 This is her home, the comfortable slosh of peace and joy lapping against the side of her boat as it dances and glides along the waves of laughter that reflect not just herself, but something else, something greater, as it reflects off and refracts through herself and the ones she loves. 
 
