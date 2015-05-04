@@ -4,6 +4,7 @@ title: Out With A Bang
 date: '2005-12-29T01:38:00.000-06:00'
 tags:
 - bare-with-me
+excerpt: This time of year makes me think of, ponder, and otherwise potificate the many facets and faces of death.
 modified_time: '2008-04-22T21:50:55.458-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-113584337093093850
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/out-with-bang.html

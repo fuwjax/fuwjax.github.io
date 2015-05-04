@@ -4,6 +4,7 @@ title: So Good Of You To Come
 date: '2008-04-12T18:45:00.000-05:00'
 tags:
 - the-way
+excerpt: To all my friends who haven't had a good Fuw-versation in many moons.
 modified_time: '2008-04-22T21:54:27.127-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-2087898789104423268
 blogger_orig_url: http://fuwjax.blogspot.com/2008/04/so-good-of-you-to-come.html

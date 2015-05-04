@@ -4,6 +4,7 @@ title: Snakes and Stones may break my Bones
 date: '2004-07-24T11:54:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: I think people who use computers should learn how to program.
 modified_time: '2008-04-22T21:27:48.244-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109068879778631048
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/snakes-and-stones-may-break-my-bones.html

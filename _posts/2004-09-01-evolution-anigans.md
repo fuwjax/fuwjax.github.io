@@ -4,6 +4,7 @@ title: Evolution-anigans
 date: '2004-09-01T18:36:00.000-05:00'
 tags:
 - the-way
+excerpt: Thoughts on the Theory of Evolution.
 modified_time: '2008-04-22T21:43:13.611-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109408185676613981
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/evolution-anigans.html
@@ -13,9 +14,7 @@ I don't have a problem with Evolution.  Evolution is just looking at the world a
 
 I don't particularly have a problem with Natural Selection, although the statement "Only the strongest survive" can only be true if you're willing to define "strength" and "survival" as equivalents.  But if surviving means you're strong, then I couldn't agree more, only the strong survive.
 
-The problem is we take these two ideas, and try to put them with a third to get the Theory of Evolution.  These two ideas are fairly innocuous in themselves.  As humans we're quite good at discerning patterns in the past, even, and sometimes especially, when those patterns don't really exist.  So it seems reasonable to assume that when we look to the past we find patterns, and to call those patterns something like progress or evolution.  And we're also quite vain as a rule in believing that anyone
-
-or anything that fails does so because it is weak, and so equating strength and survival again seems perfectly natural.
+The problem is we take these two ideas, and try to put them with a third to get the Theory of Evolution.  These two ideas are fairly innocuous in themselves.  As humans we're quite good at discerning patterns in the past, even, and sometimes especially, when those patterns don't really exist.  So it seems reasonable to assume that when we look to the past we find patterns, and to call those patterns something like progress or evolution.  And we're also quite vain as a rule in believing that anyone or anything that fails does so because it is weak, and so equating strength and survival again seems perfectly natural.
 
 The third idea behind the Theory of Evolution is that there is no God.  The theory claims that not only are there patterns behind survival and progress, but that these patterns are completely random, totally by chance.
 

@@ -4,6 +4,7 @@ title: Eulogy for Lorraine
 date: '2008-04-08T22:17:00.000-05:00'
 tags:
 - offering
+excerpt: I feel like being really selfish. Grandma doesn't care that we're here. She doesn't care, but I do.
 modified_time: '2008-04-22T21:50:11.321-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4072841620699805361
 blogger_orig_url: http://fuwjax.blogspot.com/2008/04/eulogy-for-lorraine.html

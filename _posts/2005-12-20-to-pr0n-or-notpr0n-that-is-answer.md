@@ -4,6 +4,7 @@ title: To Pr0n Or Notpr0n, That Is The Answer
 date: '2005-12-20T22:23:00.000-06:00'
 tags:
 - bare-with-me
+excerpt: In telling the story I present this evening, I'm afraid that I must spoil a few of the puzzles on notpron.
 modified_time: '2008-04-22T21:50:22.999-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-113514929991169079
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/to-pr0n-or-notpr0n-that-is-answer.html

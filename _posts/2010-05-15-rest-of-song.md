@@ -4,6 +4,7 @@ title: The Rest of the Song
 date: '2010-05-15T20:00:00.004-05:00'
 tags:
 - the-way
+excerpt: We spend all week chasing what we want; why does the time we set aside to recenter on what is truly important wind up being about what we want too.
 modified_time: '2010-05-16T00:05:22.144-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-7422888828796105743
 blogger_orig_url: http://fuwjax.blogspot.com/2010/05/rest-of-song.html

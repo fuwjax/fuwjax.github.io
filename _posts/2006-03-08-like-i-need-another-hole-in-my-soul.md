@@ -5,6 +5,7 @@ date: '2006-03-08T12:21:00.000-06:00'
 tags:
 - story-time
 - sanguine-maroon
+excerpt: I collapsed in the corner of their upstairs landing...
 modified_time: '2008-04-22T21:52:08.833-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-114184382738727116
 blogger_orig_url: http://fuwjax.blogspot.com/2006/03/like-i-need-another-hole-in-my-soul.html

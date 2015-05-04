@@ -4,6 +4,7 @@ title: Monkey See Monkey Poo
 date: '2004-07-09T13:37:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: Victory and vacation with my monkey minions.
 modified_time: '2008-04-22T21:20:22.499-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108940500506053141
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/monkey-see-monkey-poo.html

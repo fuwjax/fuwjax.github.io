@@ -5,6 +5,7 @@ date: '2004-07-07T10:40:00.000-05:00'
 tags:
 - the-way
 - story-time
+excerpt: It was, in a word, beautiful.
 modified_time: '2008-04-22T21:16:33.514-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108921999844661655
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/pillar-of-fire.html

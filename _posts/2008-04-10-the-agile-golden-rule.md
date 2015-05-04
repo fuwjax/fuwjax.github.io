@@ -4,6 +4,7 @@ layout: post
 redirect-from: "/2008/04/the-agile-golden-rule/"
 tags:
 - de-machina
+excerpt: Agile is worthless if we can't do it.
 date: '2008-04-10T05:47:00.002-05:00'
 ---
 The [Manifesto for Agile Software Development][1] is perhaps one of the greatest published works in the field of software development. It has had a tremendous effect on the software community and inspired any number of processes, tools, documents, contracts and plans. This is somewhat curious, since the very essence of the Manifesto is that these things, while valuable, are of lesser value when compared to motivated individuals collaborating and interacting to produce working software even in the face of certain change.

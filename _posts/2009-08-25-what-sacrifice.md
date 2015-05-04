@@ -4,6 +4,7 @@ title: What Sacrifice
 date: '2009-08-25T21:21:00.003-05:00'
 tags: 
 - the-way
+excerpt: If you could sacrifice your son and save the whole world, wouldn't you?
 modified_time: '2009-08-25T21:59:05.404-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6578549113946981784
 blogger_orig_url: http://fuwjax.blogspot.com/2009/08/what-sacrifice.html

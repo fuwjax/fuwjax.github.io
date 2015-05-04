@@ -4,6 +4,7 @@ title: Hindsight Isn't Always 20/20
 date: '2004-08-08T16:11:00.000-05:00'
 tags:
 - the-way
+excerpt: Cleaning... if it really is next to Godliness, then I'm really glad I'm not God.
 modified_time: '2008-04-22T21:34:59.500-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109200146349281583
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/hindsight-isnt-always-2020.html

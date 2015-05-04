@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4807928688645136491
 blogger_orig_url: http://fuwjax.blogspot.com/2007/07/look-ma-no-kids.html
 ---
 
-"Why get married if you're not going to have kids?"
+> Why get married if you're not going to have kids?
 
 I'm sure it was a rhetorical question. But like many rhetorical questions, one of those little [hand trolley](http://fuwjax.blogspot.com/2004/07/little-engine-that-could.html) guys in my head takes it and chases it down the track.
 

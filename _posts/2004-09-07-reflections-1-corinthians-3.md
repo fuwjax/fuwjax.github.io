@@ -4,6 +4,7 @@ title: 'Reflections: 1 Corinthians 3'
 date: '2004-09-07T01:14:00.000-05:00'
 tags:
 - the-way
+excerpt: Don't you know that you yourselves are God's temple and that God's Spirit lives in you?
 modified_time: '2008-04-22T21:44:10.629-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109453787584655655
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-3.html

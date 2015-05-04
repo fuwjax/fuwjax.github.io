@@ -4,6 +4,7 @@ title: How Fuwjax Got His Name Back
 date: '2004-07-07T15:22:00.000-05:00'
 tags:
 - story-time
+excerpt: I did not, contrary to popular belief, make it up.
 modified_time: '2008-04-22T21:17:11.720-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108923965827313339
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/how-fuwjax-got-his-name-back.html

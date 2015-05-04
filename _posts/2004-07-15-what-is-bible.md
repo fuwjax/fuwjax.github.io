@@ -4,6 +4,7 @@ title: What is the Bible?
 date: '2004-07-15T13:19:00.000-05:00'
 tags:
 - the-way
+excerpt: The Bible is not a rulebook, though it does contain God's Law.
 modified_time: '2008-04-22T21:24:00.440-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108992323406828147
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/what-is-bible.html

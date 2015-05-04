@@ -4,6 +4,7 @@ title: 'Reflections: 1 Corinthians 2'
 date: '2004-09-05T01:28:00.000-05:00'
 tags:
 - the-way
+excerpt: No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him.
 modified_time: '2008-04-22T21:44:10.631-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109436853970250697
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2.html
@@ -11,7 +12,7 @@ blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2
 
 So it turns out that my friend is not blogging to colouredpyrex but to [starryskie](http://starryskie.blogspot.com).  So drop by if you'd like, at least until she changes it again because I've supplied you with a link.
 
-###Cliff Notes on [1 Cor 2](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+2&version=NIV):
+###Summary of [1 Cor 2](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+2&version=NIV):
 
 I came to you in weakness and fear, without eloquence or wisdom, armed only with the knowledge of Christ and his death.  This was so my preaching might be a demonstration of the Spirit's power, that God's power alone and not the wisdom of man would supply your faith.
 

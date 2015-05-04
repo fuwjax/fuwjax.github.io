@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-113454549849599338
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/grateful-nation.html
 ---
 
-"This flag is presented on behalf of a grateful nation..."
+> This flag is presented on behalf of a grateful nation...
 
 To be honest, I don't even know what else the officer said to my grandma.  I was standing right behind her, choking back tears for the second time last Saturday. The first time came with "laughter", the last word of the poem grandma asked me to read to conclude the funeral service.  
 

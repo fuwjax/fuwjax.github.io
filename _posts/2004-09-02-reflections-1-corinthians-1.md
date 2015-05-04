@@ -4,6 +4,7 @@ title: 'Reflections: 1 Corinthians 1'
 date: '2004-09-02T21:14:00.000-05:00'
 tags:
 - the-way
+excerpt: A stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, it is the power and wisdom of God.
 modified_time: '2008-04-22T21:44:10.632-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109417749069463603
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-1.html
@@ -11,7 +12,7 @@ blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-1
 
 A friend and I have decided to reflect on a chapter of 1 Corinthians every other day.  If you would like to check out her reflections, head on over to [Coloured Pyrex](http://colouredpyrex.blogspot.com).
 
-###Cliff Notes on [1 Cor 1](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+1&version=NIV):
+###Summary of [1 Cor 1](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+1&version=NIV):
 
 To those who have been set apart in Christ:
 

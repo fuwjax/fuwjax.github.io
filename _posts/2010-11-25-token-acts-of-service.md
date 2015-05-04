@@ -4,6 +4,7 @@ title: Token Acts of Service
 date: '2010-11-25T17:34:00.002-06:00'
 tags: 
 - the-way
+excerpt: Every time I've ever heard someone preach on John 13, they've said it was about serving each other.
 modified_time: '2010-11-25T18:24:51.056-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-8029857605235291563
 blogger_orig_url: http://fuwjax.blogspot.com/2010/11/token-acts-of-service.html
@@ -18,6 +19,8 @@ blogger_orig_url: http://fuwjax.blogspot.com/2010/11/token-acts-of-service.html
 > "Those who have had a bath need only to wash their feet; their whole body is clean. And you are clean, though not every one of you." For he knew who was going to betray him, and that was why he said not everyone was clean...
 > 
 > "Do you understand what I have done for you? You call me 'Teacher' and 'Lord' and rightly so, for that is what I am. Now that I, your Lord and Teacher, have washed your feet, you also should wash one another's feet. I have set you an example that you should do as I have done for you. Very truly I tell you, no servant is greater than his master, nor is a **messenger** greater than **the one who sent him**. Now that you know these things, you will be blessed if you do them."
+> 
+> Excerpts from John 13, emphasis mine
 
 Every time I've ever heard someone preach on this text, they've said it was about serving each other. Apparently it would have been customary at the time to have a servant wash your feet as you entered the house. The claim is that the disciples obviously didn't get their feet washed when they entered the house, so Jesus had to suck it up and get his hands dirty and do the job of a servant.
 

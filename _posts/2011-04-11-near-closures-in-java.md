@@ -3,6 +3,7 @@ title: Near-Closures in Java
 layout: post
 tags:
 - de-machina
+excerpt: Closures in Java are always a ripe source for debate, discussion, flame wars, angst ridden blog posts about the joys of other languages, etc.
 date: '2011-04-11T05:47:00.002-05:00'
 
 ---

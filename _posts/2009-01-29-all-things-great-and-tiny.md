@@ -5,6 +5,7 @@ date: '2009-01-29T22:56:00.002-06:00'
 tags:
 - the-way
 - bare-with-me
+excerpt: I'm blessed to have re-re-re-uncled.
 modified_time: '2009-01-29T23:50:03.009-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5778679283996688487
 blogger_orig_url: http://fuwjax.blogspot.com/2009/01/all-things-great-and-tiny.html

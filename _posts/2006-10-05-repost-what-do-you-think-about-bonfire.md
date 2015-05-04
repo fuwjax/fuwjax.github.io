@@ -4,6 +4,7 @@ title: 'REPOST: What Do You Think About Bonfire?'
 date: '2006-10-05T18:39:00.000-05:00'
 tags:
 - sanguine-maroon
+excerpt: I think about Bonfire all the time. I love Bonfire.  Bonfire did what it set out to do perfectly.
 modified_time: '2008-04-22T21:53:59.295-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116009317398531546
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/repost-what-do-you-think-about-bonfire.html

@@ -4,6 +4,7 @@ title: When Will I Look Back And Laugh
 date: '2004-07-26T17:00:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: The cardinal rule of Fuwjaxianism.
 modified_time: '2008-04-22T21:29:29.087-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109088054211726575
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/when-will-i-look-back-and-laugh.html

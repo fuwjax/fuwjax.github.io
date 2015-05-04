@@ -4,6 +4,7 @@ title: Best Man or the Lesser of Two Evils?
 date: '2004-07-26T16:57:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: Some people say that when you vote, you should vote for the best man for the job.
 modified_time: '2008-04-22T21:28:16.967-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109087909659020820
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/best-man-or-lesser-of-two-evils.html

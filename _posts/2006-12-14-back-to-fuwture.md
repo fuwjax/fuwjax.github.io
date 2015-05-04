@@ -4,6 +4,7 @@ title: Back To The Fuwture
 date: '2006-12-14T22:29:00.000-06:00'
 tags:
 - carbon-14
+excerpt: I've been waiting for years for the perfect blog to use that lil' gem of a title.
 modified_time: '2008-04-22T21:55:15.996-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-1457849106897739370
 blogger_orig_url: http://fuwjax.blogspot.com/2006/12/back-to-fuwture.html

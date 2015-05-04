@@ -4,6 +4,7 @@ title: 'My Time Has Not Yet Come: John 2:1-4'
 date: '2005-07-28T17:09:00.000-05:00'
 tags:
 - the-way
+excerpt: If Mary were truly expecting a miracle, why would she think Jesus needed any helpers?
 modified_time: '2008-04-22T21:47:57.880-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112258879908067650
 blogger_orig_url: http://fuwjax.blogspot.com/2005/07/my-time-has-not-yet-come-john-21-4.html

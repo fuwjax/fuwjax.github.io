@@ -4,6 +4,7 @@ title: Law of Averages
 date: '2004-07-13T14:57:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: The key to the gambler's fallacy is "your luck will change".
 modified_time: '2008-04-22T21:23:47.403-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108991427892789869
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/law-of-averages.html

@@ -4,6 +4,7 @@ title: Garlic Wings
 date: '2005-08-11T12:41:00.000-05:00'
 tags:
 - carbon-14
+excerpt: I always used to say "Every woman wants to own a man."
 modified_time: '2008-04-22T21:48:43.439-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112378518488267894
 blogger_orig_url: http://fuwjax.blogspot.com/2005/08/garlic-wings.html

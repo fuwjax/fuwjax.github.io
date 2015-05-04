@@ -4,6 +4,7 @@ title: I wanna date you like a paleontologist with a petrified tyrannosaurus fem
 date: '2004-07-19T15:27:00.000-05:00'
 tags:
 - carbon-14
+excerpt: I was in an anti-relationship one time.
 modified_time: '2008-04-22T21:25:39.603-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109027175797243626
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/i-wanna-date-you-like-paleontologist.html

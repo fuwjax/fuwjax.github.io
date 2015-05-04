@@ -4,6 +4,7 @@ title: Miracle Max's Planetary Perplexion
 date: '2005-06-15T23:36:00.000-05:00'
 tags:
 - the-way
+excerpt: The Magi didn't travel because of the star; they traveled because of the king.
 modified_time: '2008-04-22T21:46:19.594-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-111890627657205950
 blogger_orig_url: http://fuwjax.blogspot.com/2005/06/miracle-maxs-planetary-perplexion.html

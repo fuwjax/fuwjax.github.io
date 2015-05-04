@@ -4,6 +4,7 @@ title: Shhh.  Be Verwy Verwy Qwiet
 date: '2005-06-26T22:43:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: Elmer Fudd and I have separate wascally wabbit hunting grounds; his acetate, mine in the far more elusive job market.
 modified_time: '2008-04-22T21:46:47.742-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-111984631679409769
 blogger_orig_url: http://fuwjax.blogspot.com/2005/06/shhh-be-verwy-verwy-qwiet.html

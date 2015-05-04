@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5236090410583673309
 blogger_orig_url: http://fuwjax.blogspot.com/2009/08/storm-chasing-miracle.html
 ---
 
-"If a miracle happens in the wilderness, and no one witnesses it, does it have an impact?"
+> If a miracle happens in the wilderness, and no one witnesses it, does it have an impact?
 
 Some folks chase storms, and more power to 'em. Storms are awesome displays of natural power and most people who get up close and personal with a tornado or a hurricane don't get a chance to talk about it. It turns out that if you get too close to a storm, you're most likely going to get caught up in it.
 

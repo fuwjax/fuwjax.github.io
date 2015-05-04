@@ -4,6 +4,7 @@ title: Goodbye, Little Girl
 date: '2011-10-16T13:50:00.002-05:00'
 tags: 
 - bare-with-me
+excerpt: We've been together for so long, it's difficult to imagine a life without you.
 modified_time: '2011-10-16T14:49:02.406-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6477695262605543217
 blogger_orig_url: http://fuwjax.blogspot.com/2011/10/goodbye-little-girl.html

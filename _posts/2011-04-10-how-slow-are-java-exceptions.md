@@ -4,6 +4,7 @@ layout: post
 tags:
 - de-machina
 date: '2011-04-10T05:47:00.002-05:00'
+excerpt: The real question is not "How slow are 'failures reported as exceptions' compared to 'code that never fails'?"
 ---
 This is a response to a [StackOverflow question][1], but it got a bit too long to leave as an answer on the site.
 

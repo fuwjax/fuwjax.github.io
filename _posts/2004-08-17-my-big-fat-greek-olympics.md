@@ -4,6 +4,7 @@ title: My Big Fat Greek Olympics
 date: '2004-08-17T19:01:00.000-05:00'
 tags:
 - bare-with-me
+excerpt: The Olympics are completely totally soley about one thing and one thing only.
 modified_time: '2008-04-22T21:40:38.410-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109278917797316568
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/my-big-fat-greek-olympics.html

@@ -4,6 +4,7 @@ title: Great Expectations
 date: '2004-08-17T00:20:00.000-05:00'
 tags:
 - sanguine-maroon
+excerpt: Aggies aren't at all like I imagined they would be.
 modified_time: '2008-04-22T21:40:13.460-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109272044340362314
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/great-expectations.html

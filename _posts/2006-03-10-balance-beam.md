@@ -4,6 +4,7 @@ title: Balance Beam
 date: '2006-03-10T21:33:00.000-06:00'
 tags:
 - carbon-14
+excerpt: The women I know these days don't know the first thing about being attractive.
 modified_time: '2008-04-22T21:52:25.547-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-114205309080629507
 blogger_orig_url: http://fuwjax.blogspot.com/2006/03/balance-beam.html

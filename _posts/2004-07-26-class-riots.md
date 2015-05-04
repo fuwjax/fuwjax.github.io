@@ -4,6 +4,7 @@ title: Class Riots
 date: '2004-07-26T21:06:00.000-05:00'
 tags:
 - story-time
+excerpt: You're going to listen to this story, and you're going to like it.
 modified_time: '2008-04-22T21:29:53.376-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109089790380362557
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/class-riots.html

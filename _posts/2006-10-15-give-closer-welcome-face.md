@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116095299080770673
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/give-closer-welcome-face.html
 ---
 
-"My soul sings a song even the angels cannot sing." - Pocket Full of Rocks "Falling"
+> "My soul sings a song even the angels cannot sing." - Pocket Full of Rocks "Falling"
 
 That line has been stuck in my mind the past few days, ever since my little sister lent me her "Song To The King" cd.
 

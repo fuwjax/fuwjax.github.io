@@ -4,6 +4,7 @@ title: The Statics of Us
 date: '2007-07-23T21:47:00.000-05:00'
 tags:
 - carbon-14
+excerpt: I killed it. A beautiful newborn. I simply choked the life right out of it. I put it out of my misery.
 modified_time: '2008-04-22T21:55:01.449-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-8959656684766175868
 blogger_orig_url: http://fuwjax.blogspot.com/2007/07/statics-of-us.html

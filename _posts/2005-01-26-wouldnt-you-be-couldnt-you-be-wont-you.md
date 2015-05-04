@@ -4,6 +4,7 @@ title: Wouldn't You Be, Couldn't You Be, Won't You Be In My Family
 date: '2005-01-26T12:52:00.000-06:00'
 tags:
 - the-way
+excerpt: Ah, the joys of Unclehood and infant baptism.
 modified_time: '2008-04-22T21:45:21.654-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-110672238650947451
 blogger_orig_url: http://fuwjax.blogspot.com/2005/01/wouldnt-you-be-couldnt-you-be-wont-you.html

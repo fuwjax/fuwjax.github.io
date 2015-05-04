@@ -4,6 +4,7 @@ title: Take a Little Dip
 date: '2012-02-21T02:52:00.000-06:00'
 tags: 
 - the-way
+excerpt: There aren't many people who understand much about baptism and the ones who do disagree with each other.
 modified_time: '2012-02-21T02:52:30.031-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5043746606834498285
 blogger_orig_url: http://fuwjax.blogspot.com/2012/02/take-little-dip.html

@@ -4,6 +4,7 @@ title: Sermonizationalizing Revisited
 date: '2004-07-12T13:42:00.000-05:00'
 tags:
 - the-way
+excerpt: I filled in for my pastor who took a much deserved vacation of sorts. I just couldn't read what I'd been given.
 modified_time: '2008-04-22T21:22:28.481-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108967061731253975
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/sermonizationalizing-revisited.html
