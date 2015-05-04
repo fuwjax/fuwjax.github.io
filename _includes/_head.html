@@ -25,6 +25,9 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+{% if site.owner.facebook.appId %}
+<meta property="fb:app_id" content="{{ site.owner.facebook.appId }}" />
+{% endif %}
 
 <!-- HTML5 Shiv and Media Query Support -->
 <!--[if lt IE 9]>
