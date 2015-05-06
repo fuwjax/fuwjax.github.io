@@ -8,7 +8,9 @@ tags:
 excerpt: This story starts with a phone call.
 modified_time: '2008-04-22T21:47:29.784-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112029506078744585
-redirect_from: /2005/07/pepe-le-fuw_02.html
+redirect_from: 
+- /2005/07/pepe-le-fuw_02.html
+- /redirect/http://fuwjax.blogspot.com/2005/07/pepe-le-fuw_02.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/07/pepe-le-fuw_02.html
 ---
 

@@ -7,7 +7,9 @@ tags:
 excerpt: If Mary were truly expecting a miracle, why would she think Jesus needed any helpers?
 modified_time: '2008-04-22T21:47:57.880-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112258879908067650
-redirect_from: /2005/07/my-time-has-not-yet-come-john-21-4.html
+redirect_from: 
+- /2005/07/my-time-has-not-yet-come-john-21-4.html
+- /redirect/http://fuwjax.blogspot.com/2005/07/my-time-has-not-yet-come-john-21-4.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/07/my-time-has-not-yet-come-john-21-4.html
 ---
 

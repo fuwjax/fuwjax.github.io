@@ -7,7 +7,9 @@ tags:
 excerpt: The story about telling the story of my cousin Jeff's wedding at my friend Jeff's wedding.
 modified_time: '2008-04-22T21:14:34.695-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108914686970723599
-redirect_from: /2004/07/tale-of-two-weddings.html
+redirect_from: 
+- /2004/07/tale-of-two-weddings.html
+- /redirect/http://fuwjax.blogspot.com/2004/07/tale-of-two-weddings.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/tale-of-two-weddings.html
 ---
 

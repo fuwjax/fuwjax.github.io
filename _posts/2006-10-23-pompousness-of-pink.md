@@ -7,7 +7,9 @@ tags:
 excerpt: It's that time of the year.  Time to be more aware of breast cancer.
 modified_time: '2008-04-22T21:56:44.055-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116165841564877211
-redirect_from: /2006/10/pompousness-of-pink.html
+redirect_from: 
+- /2006/10/pompousness-of-pink.html
+- /redirect/http://fuwjax.blogspot.com/2006/10/pompousness-of-pink.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/pompousness-of-pink.html
 ---
 

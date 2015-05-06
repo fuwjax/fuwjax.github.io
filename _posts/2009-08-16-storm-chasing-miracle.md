@@ -6,7 +6,9 @@ tags:
 - the-way
 modified_time: '2009-08-16T22:05:33.580-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5236090410583673309
-redirect_from: /2009/08/storm-chasing-miracle.html
+redirect_from: 
+- /2009/08/storm-chasing-miracle.html
+- /redirect/http://fuwjax.blogspot.com/2009/08/storm-chasing-miracle.html
 blogger_orig_url: http://fuwjax.blogspot.com/2009/08/storm-chasing-miracle.html
 ---
 

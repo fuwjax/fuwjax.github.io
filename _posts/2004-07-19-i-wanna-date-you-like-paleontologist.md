@@ -7,7 +7,9 @@ tags:
 excerpt: I was in an anti-relationship one time.
 modified_time: '2008-04-22T21:25:39.603-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109027175797243626
-redirect_from: /2004/07/i-wanna-date-you-like-paleontologist.html
+redirect_from: 
+- /2004/07/i-wanna-date-you-like-paleontologist.html
+- /redirect/http://fuwjax.blogspot.com/2004/07/i-wanna-date-you-like-paleontologist.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/i-wanna-date-you-like-paleontologist.html
 ---
 

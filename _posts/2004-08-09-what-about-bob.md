@@ -7,7 +7,9 @@ tags:
 excerpt: Human emotion is a terribly difficult thing to capture.
 modified_time: '2008-04-22T21:35:27.071-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109206302089388955
-redirect_from: /2004/08/what-about-bob.html
+redirect_from: 
+- /2004/08/what-about-bob.html
+- /redirect/http://fuwjax.blogspot.com/2004/08/what-about-bob.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/what-about-bob.html
 ---
 

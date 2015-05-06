@@ -7,7 +7,9 @@ tags:
 excerpt: Step 1) Click this link. Step 2) ... Step 3) Profit. Step 4) Love.
 modified_time: '2015-01-13T02:40:23.926-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-8392270839491381094
-redirect_from: /2015/01/how-to-fall-in-love-in-four-easy-steps.html
+redirect_from: 
+- /2015/01/how-to-fall-in-love-in-four-easy-steps.html
+- /redirect/http://fuwjax.blogspot.com/2015/01/how-to-fall-in-love-in-four-easy-steps.html
 blogger_orig_url: http://fuwjax.blogspot.com/2015/01/how-to-fall-in-love-in-four-easy-steps.html
 ---
 

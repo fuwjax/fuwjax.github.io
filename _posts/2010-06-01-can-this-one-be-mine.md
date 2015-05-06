@@ -7,7 +7,9 @@ tags:
 excerpt: You have a new one, can this be mine?
 modified_time: '2010-06-01T21:32:41.028-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4570422373984617498
-redirect_from: /2010/06/can-this-one-be-mine.html
+redirect_from: 
+- /2010/06/can-this-one-be-mine.html
+- /redirect/http://fuwjax.blogspot.com/2010/06/can-this-one-be-mine.html
 blogger_orig_url: http://fuwjax.blogspot.com/2010/06/can-this-one-be-mine.html
 ---
 

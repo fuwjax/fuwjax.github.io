@@ -7,7 +7,9 @@ tags:
 excerpt: My former students had more drama in their collective pinky finger than Mr. Turner has on all of his networks.
 modified_time: '2008-04-22T21:27:27.149-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109044739454015042
-redirect_from: /2004/07/tnt-we-know-strippers.html
+redirect_from: 
+- /2004/07/tnt-we-know-strippers.html
+- /redirect/http://fuwjax.blogspot.com/2004/07/tnt-we-know-strippers.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/tnt-we-know-strippers.html
 ---
 

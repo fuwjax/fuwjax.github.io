@@ -7,7 +7,9 @@ tags:
 excerpt: Elmer Fudd and I have separate wascally wabbit hunting grounds; his acetate, mine in the far more elusive job market.
 modified_time: '2008-04-22T21:46:47.742-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-111984631679409769
-redirect_from: /2005/06/shhh-be-verwy-verwy-qwiet.html
+redirect_from: 
+- /2005/06/shhh-be-verwy-verwy-qwiet.html
+- /redirect/http://fuwjax.blogspot.com/2005/06/shhh-be-verwy-verwy-qwiet.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/06/shhh-be-verwy-verwy-qwiet.html
 ---
 

@@ -7,7 +7,9 @@ tags:
 excerpt: I tend to find racial stereotypes to be the cheapest jokes.
 modified_time: '2008-04-22T21:53:07.803-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-114568307132457606
-redirect_from: /2006/04/open-letter-to-carlos-mencia.html
+redirect_from: 
+- /2006/04/open-letter-to-carlos-mencia.html
+- /redirect/http://fuwjax.blogspot.com/2006/04/open-letter-to-carlos-mencia.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/04/open-letter-to-carlos-mencia.html
 ---
 

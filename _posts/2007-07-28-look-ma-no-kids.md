@@ -6,7 +6,9 @@ tags:
 - carbon-14
 modified_time: '2008-04-22T21:54:52.176-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4807928688645136491
-redirect_from: /2007/07/look-ma-no-kids.html
+redirect_from: 
+- /2007/07/look-ma-no-kids.html
+- /redirect/http://fuwjax.blogspot.com/2007/07/look-ma-no-kids.html
 blogger_orig_url: http://fuwjax.blogspot.com/2007/07/look-ma-no-kids.html
 ---
 

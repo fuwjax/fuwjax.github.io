@@ -7,7 +7,9 @@ tags:
 excerpt: I always used to say "Every woman wants to own a man."
 modified_time: '2008-04-22T21:48:43.439-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112378518488267894
-redirect_from: /2005/08/garlic-wings.html
+redirect_from: 
+- /2005/08/garlic-wings.html
+- /redirect/http://fuwjax.blogspot.com/2005/08/garlic-wings.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/08/garlic-wings.html
 ---
 

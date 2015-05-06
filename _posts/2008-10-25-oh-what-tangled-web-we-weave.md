@@ -8,7 +8,9 @@ tags:
 excerpt: Sex is not sinful. There are however conditions where sex is an affront to God. He spells them out in Leviticus 18.
 modified_time: '2008-10-25T15:20:00.991-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-310155673857684617
-redirect_from: /2008/10/oh-what-tangled-web-we-weave.html
+redirect_from: 
+- /2008/10/oh-what-tangled-web-we-weave.html
+- /redirect/http://fuwjax.blogspot.com/2008/10/oh-what-tangled-web-we-weave.html
 blogger_orig_url: http://fuwjax.blogspot.com/2008/10/oh-what-tangled-web-we-weave.html
 ---
 

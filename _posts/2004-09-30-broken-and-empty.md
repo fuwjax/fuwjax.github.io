@@ -7,7 +7,9 @@ tags:
 excerpt: I'm not sure I've ever felt this worthless in all my life.
 modified_time: '2008-04-22T21:44:10.628-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109652665096593745
-redirect_from: /2004/09/broken-and-empty.html
+redirect_from: 
+- /2004/09/broken-and-empty.html
+- /redirect/http://fuwjax.blogspot.com/2004/09/broken-and-empty.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/broken-and-empty.html
 ---
 

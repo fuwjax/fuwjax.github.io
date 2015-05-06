@@ -8,7 +8,9 @@ tags:
 excerpt: Names are odd things.  I don't mean the letters on your drivers license.  I mean your name.
 modified_time: '2008-04-22T21:32:48.447-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109122412414294657
-redirect_from: /2004/07/fuwjax-by-any-other-name.html
+redirect_from: 
+- /2004/07/fuwjax-by-any-other-name.html
+- /redirect/http://fuwjax.blogspot.com/2004/07/fuwjax-by-any-other-name.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/fuwjax-by-any-other-name.html
 ---
 

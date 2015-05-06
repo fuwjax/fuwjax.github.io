@@ -7,7 +7,9 @@ tags:
 excerpt: Thanks Steph for opening my eyes to the bigger question about desire.
 modified_time: '2008-04-22T21:56:12.963-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116157937600068580
-redirect_from: /2006/10/politics-of-desire.html
+redirect_from: 
+- /2006/10/politics-of-desire.html
+- /redirect/http://fuwjax.blogspot.com/2006/10/politics-of-desire.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/politics-of-desire.html
 ---
 

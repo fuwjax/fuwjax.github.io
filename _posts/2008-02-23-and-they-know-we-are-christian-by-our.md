@@ -7,7 +7,9 @@ tags:
 excerpt: I'm finding that I have less and less in common with the Christian community than I think I do.
 modified_time: '2008-04-22T21:54:27.128-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-895784357392902758
-redirect_from: /2008/02/and-they-know-we-are-christian-by-our.html
+redirect_from: 
+- /2008/02/and-they-know-we-are-christian-by-our.html
+- /redirect/http://fuwjax.blogspot.com/2008/02/and-they-know-we-are-christian-by-our.html
 blogger_orig_url: http://fuwjax.blogspot.com/2008/02/and-they-know-we-are-christian-by-our.html
 ---
 

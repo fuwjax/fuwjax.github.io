@@ -7,7 +7,9 @@ tags:
 - bare-with-me
 modified_time: '2008-04-22T21:49:37.726-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-111682163675702781
-redirect_from: /2005/05/third-and-final-toast.html
+redirect_from: 
+- /2005/05/third-and-final-toast.html
+- /redirect/http://fuwjax.blogspot.com/2005/05/third-and-final-toast.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/05/third-and-final-toast.html
 ---
 

@@ -7,7 +7,9 @@ tags:
 excerpt: Some days are worth celebrating because they aren't the day they were a year ago.
 modified_time: '2014-09-23T11:13:03.065-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6626219566798209334
-redirect_from: /2014/09/real-good-thing.html
+redirect_from: 
+- /2014/09/real-good-thing.html
+- /redirect/http://fuwjax.blogspot.com/2014/09/real-good-thing.html
 blogger_orig_url: http://fuwjax.blogspot.com/2014/09/real-good-thing.html
 ---
 

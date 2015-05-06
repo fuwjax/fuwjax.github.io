@@ -7,7 +7,9 @@ tags:
 excerpt: I get angry when "symbol" and "communion" wind up in the same sentence.
 modified_time: '2008-04-22T21:56:28.425-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5424253162576611584
-redirect_from: /2006/11/we-three-rings.html
+redirect_from: 
+- /2006/11/we-three-rings.html
+- /redirect/http://fuwjax.blogspot.com/2006/11/we-three-rings.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/11/we-three-rings.html
 ---
 

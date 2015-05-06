@@ -7,7 +7,9 @@ tags:
 excerpt: I was asked to write a note for a former teacher for her retirement party. Thankfully she did not teach me English.
 modified_time: '2012-06-18T23:52:01.621-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6454211525692837633
-redirect_from: /2012/04/so-youre-retiring.html
+redirect_from: 
+- /2012/04/so-youre-retiring.html
+- /redirect/http://fuwjax.blogspot.com/2012/04/so-youre-retiring.html
 blogger_orig_url: http://fuwjax.blogspot.com/2012/04/so-youre-retiring.html
 ---
 

@@ -6,7 +6,9 @@ tags:
 - offering
 modified_time: '2008-04-22T21:50:03.107-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-113454549849599338
-redirect_from: /2005/12/grateful-nation.html
+redirect_from: 
+- /2005/12/grateful-nation.html
+- /redirect/http://fuwjax.blogspot.com/2005/12/grateful-nation.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/grateful-nation.html
 ---
 

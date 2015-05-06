@@ -7,7 +7,9 @@ tags:
 excerpt: We've been together for so long, it's difficult to imagine a life without you.
 modified_time: '2011-10-16T14:49:02.406-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6477695262605543217
-redirect_from: /2011/10/goodbye-little-girl.html
+redirect_from: 
+- /2011/10/goodbye-little-girl.html
+- /redirect/http://fuwjax.blogspot.com/2011/10/goodbye-little-girl.html
 blogger_orig_url: http://fuwjax.blogspot.com/2011/10/goodbye-little-girl.html
 ---
 
