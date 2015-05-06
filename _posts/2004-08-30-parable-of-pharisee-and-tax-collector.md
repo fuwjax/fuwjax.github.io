@@ -8,6 +8,7 @@ tags:
 excerpt: Yeah, I went there.
 modified_time: '2008-04-22T21:41:50.161-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109390168743199874
+redirect_from: /2004/08/parable-of-pharisee-and-tax-collector.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/parable-of-pharisee-and-tax-collector.html
 ---
 

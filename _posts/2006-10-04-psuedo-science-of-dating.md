@@ -7,6 +7,7 @@ tags:
 excerpt: Ever wonder why I spend a lot of time talking about first dates?
 modified_time: '2008-04-22T21:53:47.131-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116002926393314845
+redirect_from: /2006/10/psuedo-science-of-dating.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/psuedo-science-of-dating.html
 ---
 

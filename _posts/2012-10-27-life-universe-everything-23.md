@@ -7,6 +7,7 @@ tags:
 excerpt: She's bigger on the inside.
 modified_time: '2012-10-27T23:26:43.756-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5636944171963096210
+redirect_from: /2012/10/life-universe-everything-23.html
 blogger_orig_url: http://fuwjax.blogspot.com/2012/10/life-universe-everything-23.html
 ---
 

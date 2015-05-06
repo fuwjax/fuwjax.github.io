@@ -7,6 +7,7 @@ tags:
 excerpt: I'm about the worst person to give dating advice ever.
 modified_time: '2008-04-22T21:53:47.131-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-115985411946721084
+redirect_from: /2006/10/dating-dues-and-donuts.html
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/dating-dues-and-donuts.html
 ---
 

@@ -7,6 +7,7 @@ tags:
 excerpt: Aggies aren't at all like I imagined they would be.
 modified_time: '2008-04-22T21:40:13.460-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109272044340362314
+redirect_from: /2004/08/great-expectations.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/great-expectations.html
 ---
 

@@ -6,6 +6,7 @@ tags:
 - carbon-14
 modified_time: '2008-04-22T21:41:14.312-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109316392583022019
+redirect_from: /2004/08/nice-guys-dont-even-finish.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/nice-guys-dont-even-finish.html
 ---
 

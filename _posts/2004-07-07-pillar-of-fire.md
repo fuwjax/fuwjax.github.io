@@ -8,6 +8,7 @@ tags:
 excerpt: It was, in a word, beautiful.
 modified_time: '2008-04-22T21:16:33.514-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108921999844661655
+redirect_from: /2004/07/pillar-of-fire.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/pillar-of-fire.html
 ---
 

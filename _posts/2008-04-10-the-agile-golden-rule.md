@@ -1,7 +1,7 @@
 ---
 title: The Agile Golden Rule
 layout: post
-redirect-from: "/2008/04/the-agile-golden-rule/"
+redirect_from: /2008/04/the-agile-golden-rule/
 tags:
 - de-machina
 excerpt: Agile is worthless if we can't do it.

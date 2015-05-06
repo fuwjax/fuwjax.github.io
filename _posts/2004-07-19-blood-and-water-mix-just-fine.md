@@ -8,7 +8,8 @@ tags:
 excerpt: We took a pony keg down the river.
 modified_time: '2008-04-22T21:26:59.194-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109027639672476337
-redirect-from: /2004/07/blood-and-water-mix-just-fine.html
+redirect_from: /2004/07/blood-and-water-mix-just-fine.html
+blogger_orig_url: http://fuwjax.blogspot.com/2004/07/blood-and-water-mix-just-fine.html
 ---
 
 So I floated the Guadalupe this weekend. We lost keys and licenses and phones and lots of money to the river. We lost one of our group 3 minutes into the trip and didn't find her till we got off the river. 4 of our cars were towed and they wanted $600 to get them back. I got a sunburn that'll probably hurt for a few more days, and if memory serves, I think I accidentally threw my pride away in an empty beer can. Thankfully the hole my pride left doubled as a keg shell, so at least I had somewhere to put the rest of the beer I drank.

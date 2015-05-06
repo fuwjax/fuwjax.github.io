@@ -7,6 +7,7 @@ tags:
 excerpt: Some people say that when you vote, you should vote for the best man for the job.
 modified_time: '2008-04-22T21:28:16.967-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109087909659020820
+redirect_from: /2004/07/best-man-or-lesser-of-two-evils.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/best-man-or-lesser-of-two-evils.html
 ---
 

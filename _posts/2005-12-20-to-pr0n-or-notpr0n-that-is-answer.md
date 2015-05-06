@@ -7,6 +7,7 @@ tags:
 excerpt: In telling the story I present this evening, I'm afraid that I must spoil a few of the puzzles on notpron.
 modified_time: '2008-04-22T21:50:22.999-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-113514929991169079
+redirect_from: /2005/12/to-pr0n-or-notpr0n-that-is-answer.html
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/to-pr0n-or-notpr0n-that-is-answer.html
 ---
 I found myself a new addiction, a little webpuzzle called [notpron](http://deathball.net/notpron).  In telling the story I present this evening, I'm afraid that I must spoil a few of the puzzles, level 40 in particular.  For this I am deeply sorry, and beg of you to first, before reading this post, go directly to notpron and solve the first 40 levels.  You will be the better for having done so.  So to not inadvertently give away any of the fun before you are able to click the link above, the rest of this story will be written in lemon oil.

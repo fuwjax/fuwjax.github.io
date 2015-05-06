@@ -7,7 +7,8 @@ tags:
 excerpt: It doesn't matter who you are or they are, you can love anyone anywhere anytime. You can even love yourself.
 modified_time: '2015-03-15T01:11:41.479-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6378910755422398181
-redirect-from: /2015/03/fall-in-love-with-yourself.html
+redirect_from: /2015/03/fall-in-love-with-yourself.html
+blogger_orig_url: http://fuwjax.blogspot.com/2015/03/fall-in-love-with-yourself.html
 ---
 
 You know, it's funny. The more research I do into love, the more I discover that all the evidence for love being a completely intentional thing is well known. It shows up in several different scientific disciplines. Every religion has it in some way, shape, or form. Every culture has believed it to some extent until very recently. So why do we, in an age of extreme enlightenment, feel so intensely that we have no control over our emotions and no ability to choose who to love or how to love or when to love?

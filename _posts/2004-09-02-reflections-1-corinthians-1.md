@@ -7,6 +7,7 @@ tags:
 excerpt: A stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, it is the power and wisdom of God.
 modified_time: '2008-04-22T21:44:10.632-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109417749069463603
+redirect_from: /2004/09/reflections-1-corinthians-1.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-1.html
 ---
 

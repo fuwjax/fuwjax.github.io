@@ -7,6 +7,7 @@ tags:
 excerpt: As I am wont to do, I gave only half of the story in my previous post.
 modified_time: '2008-11-30T14:52:41.525-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6073646716024991529
+redirect_from: /2008/11/whos-on-first-fuwjax-is-off.html
 blogger_orig_url: http://fuwjax.blogspot.com/2008/11/whos-on-first-fuwjax-is-off.html
 ---
 

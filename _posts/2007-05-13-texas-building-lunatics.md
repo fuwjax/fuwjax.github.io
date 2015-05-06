@@ -7,6 +7,7 @@ tags:
 excerpt: I went to a Texas A&M baseball game. It's like going to a line dance; it's like watching sheep.
 modified_time: '2008-04-22T21:54:12.681-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4121395586147066204
+redirect_from: /2007/05/texas-building-lunatics.html
 blogger_orig_url: http://fuwjax.blogspot.com/2007/05/texas-building-lunatics.html
 ---
 

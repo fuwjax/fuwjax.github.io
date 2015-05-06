@@ -8,6 +8,7 @@ tags:
 excerpt: Some beautiful things have happened to me the past few weeks, and it would be a shame to split the stories up.
 modified_time: '2013-10-29T00:37:15.013-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-7902035855551127439
+redirect_from: /2013/10/beautiful.html
 blogger_orig_url: http://fuwjax.blogspot.com/2013/10/beautiful.html
 ---
 

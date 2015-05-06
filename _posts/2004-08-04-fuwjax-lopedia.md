@@ -7,6 +7,7 @@ tags:
 excerpt: I do, more often than not, use words inappropriately, but I think the ability to define them is paramount.
 modified_time: '2008-04-22T21:33:51.703-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109165961217294644
+redirect_from: /2004/08/fuwjax-lopedia.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/fuwjax-lopedia.html
 ---
 

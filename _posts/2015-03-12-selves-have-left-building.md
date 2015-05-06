@@ -7,6 +7,7 @@ tags:
 - offering
 modified_time: '2015-03-14T23:13:54.147-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5827781739230712808
+redirect_from: /2015/03/selves-have-left-building.html
 blogger_orig_url: http://fuwjax.blogspot.com/2015/03/selves-have-left-building.html
 ---
 
