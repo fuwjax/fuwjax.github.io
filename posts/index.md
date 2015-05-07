@@ -3,4 +3,4 @@ layout: post-index
 title: All Posts
 excerpt: "A List of Posts"
 ---
-The un-abridged diary of a madman hell-bent on heaven. I paint words on the canvas of your identity so that together we can become something beautiful, something raw and naked, something eternal. Thank you for becoming my art.
+The fragrant flagrant derangement of a vagrant hell-bent on heaven captured for your entertainment. I paint words on the canvas of your identity so that together we can become something beautiful, something raw and naked, something eternal. Thank you for becoming my art.

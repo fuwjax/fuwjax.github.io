@@ -16,6 +16,7 @@
       {% else %}
           {% assign tags_content = '' %}
       {% endif %}
+      {% capture post_slug %}{{ page.title | slugify }}{% endcapture %}
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
@@ -59,6 +60,15 @@
     <div class="article-wrap">
       {{ content }}
       <hr />
+      {% for comment in site.data.comments reversed %}
+        {% if post_slug == comment.post %}
+          <div class="old-comment">
+            <div><span class="oc-author">{{ comment.author }}</span> said on <span class="oc-date">{{ comment.date }}</span></div>
+            <p class="oc-content">{{ comment.comment | markdownify }}</p>
+          </div>
+          <hr />
+        {% endif %}
+      {% endfor %}
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
