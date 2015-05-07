@@ -5,6 +5,7 @@ tags:
 - de-machina
 date: '2011-04-10T05:47:00.002-05:00'
 excerpt: Maybe you can tell from my previous post that I'm completely fed up with Java Exception FUD.
+slug: java-exception-microbenchmark
 redirect_from: /2011/04/java-exception-microbenchmark/
 ---
 Maybe you can tell from my previous post that I'm completely fed up with Java Exception FUD. I attempted to point out my major reasons behind using exceptions liberally without directly attacking the arguments from the anti-exception folks. I can't even begin to address all the ridiculousness out there.

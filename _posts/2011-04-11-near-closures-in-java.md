@@ -5,6 +5,7 @@ tags:
 - de-machina
 excerpt: Closures in Java are always a ripe source for debate, discussion, flame wars, angst ridden blog posts about the joys of other languages, etc.
 date: '2011-04-11T05:47:00.002-05:00'
+slug: near-closures-in-java
 redirect_from: /2011/04/near-closures-in-java/
 ---
 Closures in Java are always a ripe source for debate, discussion, flame wars, angst ridden blog posts about the joys of other languages etc. But we've been able to do something very near closures all along. First, the test:

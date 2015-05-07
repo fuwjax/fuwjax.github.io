@@ -7,6 +7,7 @@ tags:
 excerpt: It is not yet my time.
 modified_time: '2012-02-02T00:41:22.892-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-1837727850034769971
+slug: of-wine-and-washing
 redirect_from: 
 - /2012/02/of-wine-and-washing.html
 - /redirect/http://fuwjax.blogspot.com/2012/02/of-wine-and-washing.html

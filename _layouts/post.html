@@ -16,7 +16,6 @@
       {% else %}
           {% assign tags_content = '' %}
       {% endif %}
-      {% capture post_slug %}{{ page.title | slugify }}{% endcapture %}
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
@@ -61,7 +60,7 @@
       {{ content }}
       <hr />
       {% for comment in site.data.comments reversed %}
-        {% if post_slug == comment.post %}
+        {% if page.slug == comment.post %}
           <div class="old-comment">
             <div><span class="oc-author">{{ comment.author }}</span> said on <span class="oc-date">{{ comment.date }}</span></div>
             <p class="oc-content">{{ comment.comment | markdownify }}</p>

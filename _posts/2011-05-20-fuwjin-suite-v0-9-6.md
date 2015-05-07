@@ -4,6 +4,7 @@ layout: post
 tags: 
 - de-machina
 date: '2011-05-20T05:47:00.002-05:00'
+slug: fuwjin-suite-v0-9-6
 redirect_from: /2011/05/fuwjin-suite-v0-9-6/
 ---
 The Fuwjin Suite v0.9.6 is released to Maven Central. Some fun new features in there.

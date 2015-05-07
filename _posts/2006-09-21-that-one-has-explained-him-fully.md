@@ -6,6 +6,7 @@ tags:
 - the-way
 modified_time: '2008-04-22T21:53:33.049-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-115889615119619747
+slug: that-one-has-explained-him-fully
 redirect_from: 
 - /2006/09/that-one-has-explained-him-fully.html
 - /redirect/http://fuwjax.blogspot.com/2006/09/that-one-has-explained-him-fully.html

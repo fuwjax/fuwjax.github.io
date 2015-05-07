@@ -6,6 +6,7 @@ tags:
 - carbon-14
 modified_time: '2008-04-22T21:35:42.744-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109207109491566680
+slug: fuwjaxs-rules-for-happy-healthy-dating
 redirect_from: 
 - /2004/08/fuwjaxs-rules-for-happy-healthy-dating.html
 - /redirect/http://fuwjax.blogspot.com/2004/08/fuwjaxs-rules-for-happy-healthy-dating.html

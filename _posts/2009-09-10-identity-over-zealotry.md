@@ -5,6 +5,7 @@ tags:
 - de-machina
 excerpt: Just because I think there's a right way doesn't make it right.
 date: '2009-09-10T05:47:00.002-05:00'
+slug: identity-over-zealotry
 redirect_from: /2009/09/identity-over-zealotry/
 ---
 I think "Identity over Zealotry" belongs in [the list][1]. Just because I think there's a right way to do something or say something or approach something doesn't make it right, or better-than-yours, or even good. I find that the Agile Manifesto comes pretty close to expressing my values in a clear concise way. That said, I'm not sure too many other people find it clear and concise. I know quite a few folks who look at the list as binary and binding; a statement of what I as a agile adopter expect, or demand, or just flat out won't do. But that's not it at all, at least for me. It's a set of statements I identify with; it expresses what I've learned to value.

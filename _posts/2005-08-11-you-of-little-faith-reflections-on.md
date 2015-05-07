@@ -7,6 +7,7 @@ tags:
 excerpt: Surely getting out of the boat took above average faith, yet Jesus said otherwise.
 modified_time: '2008-04-22T21:47:57.879-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-112380198300529053
+slug: you-of-little-faith-reflections-on
 redirect_from: 
 - /2005/08/you-of-little-faith-reflections-on.html
 - /redirect/http://fuwjax.blogspot.com/2005/08/you-of-little-faith-reflections-on.html

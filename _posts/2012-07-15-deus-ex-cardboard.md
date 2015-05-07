@@ -7,6 +7,7 @@ tags:
 excerpt: I tried to record what I couldn't write.
 modified_time: '2012-07-15T05:42:55.465-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-6411085889658728502
+slug: deus-ex-cardboard
 redirect_from: 
 - /2012/07/deus-ex-cardboard.html
 - /redirect/http://fuwjax.blogspot.com/2012/07/deus-ex-cardboard.html

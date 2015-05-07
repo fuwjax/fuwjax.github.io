@@ -7,6 +7,7 @@ tags:
 excerpt: Every time I've ever heard someone preach on John 13, they've said it was about serving each other.
 modified_time: '2010-11-25T18:24:51.056-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-8029857605235291563
+slug: token-acts-of-service
 redirect_from: 
 - /2010/11/token-acts-of-service.html
 - /redirect/http://fuwjax.blogspot.com/2010/11/token-acts-of-service.html

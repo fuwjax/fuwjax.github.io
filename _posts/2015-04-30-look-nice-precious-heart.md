@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Look Nice Precious Heart
+slug: look-nice-precious-heart
 date: '2015-04-30T20:11:00.000-05:00'
 modified:
 excerpt: The words echoed in her ears - not ominously - a whisper, not a thunder.

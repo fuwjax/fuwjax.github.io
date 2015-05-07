@@ -8,6 +8,7 @@ tags:
 excerpt: I collapsed in the corner of their upstairs landing...
 modified_time: '2008-04-22T21:52:08.833-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-114184382738727116
+slug: like-i-need-another-hole-in-my-soul
 redirect_from: 
 - /2006/03/like-i-need-another-hole-in-my-soul.html
 - /redirect/http://fuwjax.blogspot.com/2006/03/like-i-need-another-hole-in-my-soul.html

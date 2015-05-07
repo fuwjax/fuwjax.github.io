@@ -7,6 +7,7 @@ tags:
 excerpt: Anyone can say they are married. The government does not have any hold on the term, simply on the legal status.
 modified_time: '2012-07-30T03:02:22.247-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-4270469554619956101
+slug: i-do-you-do-we-all-do-for-ice
 redirect_from: 
 - /2012/07/i-do-you-do-we-all-do-for-ice.html
 - /redirect/http://fuwjax.blogspot.com/2012/07/i-do-you-do-we-all-do-for-ice.html

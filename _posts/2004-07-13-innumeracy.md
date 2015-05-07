@@ -7,6 +7,7 @@ tags:
 excerpt: You just don't run across proud illiterates most days.
 modified_time: '2008-04-22T21:23:08.711-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108973794496701181
+slug: innumeracy
 redirect_from: 
 - /2004/07/innumeracy.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/innumeracy.html

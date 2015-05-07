@@ -6,6 +6,7 @@ tags:
 - the-way
 modified_time: '2009-07-27T00:16:48.497-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-5705026232609844752
+slug: stillness
 redirect_from: 
 - /2009/07/stillness.html
 - /redirect/http://fuwjax.blogspot.com/2009/07/stillness.html

@@ -7,6 +7,7 @@ tags:
 excerpt: It's hard to believe that I've been out of the hospital for almost a month. 
 modified_time: '2013-10-29T01:50:52.479-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-8551631172429150918
+slug: farsighted-hindsight
 redirect_from: 
 - /2013/10/farsighted-hindsight.html
 - /redirect/http://fuwjax.blogspot.com/2013/10/farsighted-hindsight.html

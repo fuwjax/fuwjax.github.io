@@ -6,6 +6,7 @@ tags:
 - the-way
 modified_time: '2008-04-22T21:56:28.425-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116095299080770673
+slug: give-closer-welcome-face
 redirect_from: 
 - /2006/10/give-closer-welcome-face.html
 - /redirect/http://fuwjax.blogspot.com/2006/10/give-closer-welcome-face.html

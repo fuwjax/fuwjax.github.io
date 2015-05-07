@@ -8,6 +8,7 @@ tags:
 excerpt: We took a pony keg down the river.
 modified_time: '2008-04-22T21:26:59.194-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109027639672476337
+slug: blood-and-water-mix-just-fine
 redirect_from: 
 - /2004/07/blood-and-water-mix-just-fine.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/blood-and-water-mix-just-fine.html

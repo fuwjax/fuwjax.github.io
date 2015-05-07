@@ -7,6 +7,7 @@ tags:
 excerpt: To my knowledge, Acts 19 is the only place in the Bible where a god is specifically named that doesn't result in a massacre one way or the other. 
 modified_time: '2011-08-21T06:54:20.625-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-764546946778949792
+slug: even-in-riots
 redirect_from: 
 - /2011/08/even-in-riots.html
 - /redirect/http://fuwjax.blogspot.com/2011/08/even-in-riots.html

@@ -7,6 +7,7 @@ tags:
 excerpt: Cleaning... if it really is next to Godliness, then I'm really glad I'm not God.
 modified_time: '2008-04-22T21:34:59.500-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109200146349281583
+slug: hindsight-isnt-always-2020
 redirect_from: 
 - /2004/08/hindsight-isnt-always-2020.html
 - /redirect/http://fuwjax.blogspot.com/2004/08/hindsight-isnt-always-2020.html

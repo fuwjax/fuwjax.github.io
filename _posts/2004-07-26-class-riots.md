@@ -7,6 +7,7 @@ tags:
 excerpt: You're going to listen to this story, and you're going to like it.
 modified_time: '2008-04-22T21:29:53.376-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109089790380362557
+slug: class-riots
 redirect_from: 
 - /2004/07/class-riots.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/class-riots.html

@@ -7,6 +7,7 @@ tags:
 excerpt: No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him.
 modified_time: '2008-04-22T21:44:10.631-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109436853970250697
+slug: reflections-1-corinthians-2
 redirect_from: 
 - /2004/09/reflections-1-corinthians-2.html
 - /redirect/http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2.html

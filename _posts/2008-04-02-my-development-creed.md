@@ -5,6 +5,7 @@ tags:
 - de-machina
 excerpt: I believe software development is a conversation.
 date: '2008-04-02T05:47:00.002-05:00'
+slug: my-development-creed
 redirect_from: /2008/04/my-development-creed/
 ---
 I believe software development is a conversation between individual developers, users, clients, managers, testers, analysts, architects, operators, lawyers, accountants, CxO's and occasionally the janitor.

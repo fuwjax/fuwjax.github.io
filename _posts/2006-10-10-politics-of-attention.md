@@ -7,6 +7,7 @@ tags:
 excerpt: Rough thoughts on attention, desire, and lust.
 modified_time: '2008-04-22T21:56:12.963-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-116046352633074648
+slug: politics-of-attention
 redirect_from: 
 - /2006/10/politics-of-attention.html
 - /redirect/http://fuwjax.blogspot.com/2006/10/politics-of-attention.html

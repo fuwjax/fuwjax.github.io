@@ -6,6 +6,7 @@ tags:
 - the-way
 modified_time: '2008-04-22T21:45:21.656-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-109777674258600537
+slug: which-came-first
 redirect_from: 
 - /2004/10/which-came-first.html
 - /redirect/http://fuwjax.blogspot.com/2004/10/which-came-first.html

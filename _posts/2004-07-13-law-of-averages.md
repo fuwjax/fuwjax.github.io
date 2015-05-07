@@ -7,6 +7,7 @@ tags:
 excerpt: The key to the gambler's fallacy is "your luck will change".
 modified_time: '2008-04-22T21:23:47.403-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108991427892789869
+slug: law-of-averages
 redirect_from: 
 - /2004/07/law-of-averages.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/law-of-averages.html

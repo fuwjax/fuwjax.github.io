@@ -7,6 +7,7 @@ tags:
 excerpt: Falling in love means looking forward to becoming someone else with someone else. 
 modified_time: '2015-02-14T16:50:00.208-06:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-9099883327216959492
+slug: falling-in-love-for-dummies
 redirect_from: 
 - /2015/02/falling-in-love-for-dummies.html
 - /redirect/http://fuwjax.blogspot.com/2015/02/falling-in-love-for-dummies.html

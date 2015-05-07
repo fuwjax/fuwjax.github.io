@@ -7,6 +7,7 @@ tags:
 excerpt: The women I know these days don't know the first thing about being attractive.
 modified_time: '2008-04-22T21:52:25.547-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-114205309080629507
+slug: balance-beam
 redirect_from: 
 - /2006/03/balance-beam.html
 - /redirect/http://fuwjax.blogspot.com/2006/03/balance-beam.html

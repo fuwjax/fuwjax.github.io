@@ -7,6 +7,7 @@ tags:
 excerpt: The Bible is not a rulebook, though it does contain God's Law.
 modified_time: '2008-04-22T21:24:00.440-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108992323406828147
+slug: what-is-bible
 redirect_from: 
 - /2004/07/what-is-bible.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/what-is-bible.html

@@ -7,6 +7,7 @@ tags:
 - bare-with-me
 modified_time: '2008-04-22T21:19:39.756-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108938256661094138
+slug: little-engine-that-could
 redirect_from: 
 - /2004/07/little-engine-that-could.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/little-engine-that-could.html

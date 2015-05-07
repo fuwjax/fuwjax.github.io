@@ -1,6 +1,7 @@
 ---
 title: The Agile Golden Rule
 layout: post
+slug: the-agile-golden-rule
 redirect_from: /2008/04/the-agile-golden-rule/
 tags:
 - de-machina

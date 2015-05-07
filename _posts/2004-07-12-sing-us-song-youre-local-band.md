@@ -7,6 +7,7 @@ tags:
 excerpt: Art is human experience and emotion distilled down till it's just short of abstract.
 modified_time: '2008-04-22T21:21:40.703-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108965719733134607
+slug: sing-us-song-youre-local-band
 redirect_from: 
 - /2004/07/sing-us-song-youre-local-band.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/sing-us-song-youre-local-band.html

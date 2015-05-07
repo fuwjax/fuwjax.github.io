@@ -6,6 +6,7 @@ tags:
 - story-time
 modified_time: '2008-10-19T00:07:53.849-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-7084692717525637494
+slug: hey-fuw-why-wristband
 redirect_from: 
 - /2008/06/hey-fuw-why-wristband.html
 - /redirect/http://fuwjax.blogspot.com/2008/06/hey-fuw-why-wristband.html

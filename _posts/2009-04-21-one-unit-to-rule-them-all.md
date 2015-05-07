@@ -6,6 +6,7 @@ tags:
 - bare-with-me
 modified_time: '2009-05-02T20:03:39.829-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-7911450795278124835
+slug: one-unit-to-rule-them-all
 redirect_from: 
 - /2009/04/one-unit-to-rule-them-all.html
 - /redirect/http://fuwjax.blogspot.com/2009/04/one-unit-to-rule-them-all.html
