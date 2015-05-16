@@ -14,7 +14,7 @@ redirect_from:
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-3.html
 ---
 
-###Summary of [1 Cor 3](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+3&version=NIV):
+### Summary of [1 Cor 3](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+3&version=NIV):
 
 But I had to treat you gently because of your young faith.  And you are still not ready to be addressed as spiritual because of your jealousy and quarreling.  For are you not using the foolish wisdom of men when you bicker about which messenger you follow.
 
@@ -26,11 +26,11 @@ Don't you know that you are God's sacred temple and that His Spirit dwells in yo
 
 Don't fool yourselves.  Those who think they are wise in the wisdom of men should become a "fool" to become wise in God's wisdom.  So stop boasting of which messenger you follow.  All things have been given to you, for you are of Christ and Christ is of God.
 
-###Favorite Passage of 1 Cor 3:
+### Favorite Passage of 1 Cor 3:
 
 > Don't you know that you yourselves are God's temple and that God's Spirit lives in you?  If anyone destroys God's temple, God will destroy him; for God's temple is sacred, and you are that temple. - 1 Cor 3:16,17
 
-###Thoughts on 1 Cor 3:
+### Thoughts on 1 Cor 3:
 
 I have to admit, I've been feeling pretty blah lately.  I'm not doing very much at work.  I'm just not really feeling very useful at the moment.
 

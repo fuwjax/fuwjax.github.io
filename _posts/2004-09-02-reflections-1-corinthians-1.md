@@ -16,7 +16,7 @@ blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-1
 
 A friend and I have decided to reflect on a chapter of 1 Corinthians every other day.  If you would like to check out her reflections, head on over to [Coloured Pyrex](http://colouredpyrex.blogspot.com).
 
-###Summary of [1 Cor 1](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+1&version=NIV):
+### Summary of [1 Cor 1](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+1&version=NIV):
 
 To those who have been set apart in Christ:
 
@@ -28,11 +28,11 @@ This power seems weak to those searching for human or supernatural strength, and
 
 And of those who have been saved, those who have been called, few were wise or strong or influential.  We were the broken and discarded, the despised and rejected, that God might reveal his power to the world.  For no one, least of all ourselves could claim any part in the salvation we, who were once lost, have received in Christ.
 
-###Favorite Passage from 1 Cor 1:
+### Favorite Passage from 1 Cor 1:
 
 Jews demand miraculous signs and Greeks look for wisdom, but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God. - 1 Cor 1:22-24
 
-###Thoughts on 1 Cor 1:
+### Thoughts on 1 Cor 1:
 
 but to preach the gospel - not with words of human wisdom, lest the cross of Christ be emptied of its power. - 1 Cor 1:17b
 

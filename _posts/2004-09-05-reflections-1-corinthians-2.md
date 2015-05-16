@@ -16,7 +16,7 @@ blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2
 
 So it turns out that my friend is not blogging to colouredpyrex but to [starryskie](http://starryskie.blogspot.com).  So drop by if you'd like, at least until she changes it again because I've supplied you with a link.
 
-###Summary of [1 Cor 2](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+2&version=NIV):
+### Summary of [1 Cor 2](http://biblegateway.com/cgi-bin/bible?language=english&passage=1+cor+2&version=NIV):
 
 I came to you in weakness and fear, without eloquence or wisdom, armed only with the knowledge of Christ and his death.  This was so my preaching might be a demonstration of the Spirit's power, that God's power alone and not the wisdom of man would supply your faith.
 
@@ -24,11 +24,11 @@ Though the message we bring is separate from the wisdom of man, even of the rule
 
 His Spirit knows His thoughts, just as our spirit knows our inner secrets.  And it is this same Spirit we have received that we might understand what has been given to us in Christ and his crucifixion.  And this is what we have preached not through our own words, but in words taught by the Spirit.  To the mind of man these words seem foolish, he does not accept the things that come from the Spirit.  But we have the mind of Christ.
 
-###Favorite Passage from 1 Cor 2
+### Favorite Passage from 1 Cor 2
 
 > No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him - 1 Cor 2 quoted from Isaiah 64:4
 
-###Thoughts on 1 Cor 2
+### Thoughts on 1 Cor 2
 
 My mom died this past January.  Even before she went home, I used to think about what heaven would be like.  Now, I admit, I think about it a lot.  I wonder what my mom's doing now.  I wonder if "now" even has any meaning when you're staring down the business end of infinity.  I just wonder.
 

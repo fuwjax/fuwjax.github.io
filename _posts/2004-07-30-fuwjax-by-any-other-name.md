@@ -33,7 +33,7 @@ Her nickname has spawned tons of jokes like telling the guys to stop staring at 
 
 But she's leaving soon. I don't know if you've ever lost your ass, and I'm not talking about a trip to Vegas here... but it hurts. So I felt obliged to include on this here blogrification the following poem:
 
-###Ode to My Ass
+### Ode to My Ass
 
 > Without you, I'm just smart
 > Without you, I'm just dumb
