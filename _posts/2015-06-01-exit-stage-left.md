@@ -35,7 +35,7 @@ I pray for you peace in these last fleeting moments surrounded by a handful of l
 
 You will be missed here, but not for long. These tears of sorrow will be transformed to tears of joy. Those cherished loved ones who sit now at your side will one day join you at the table.
 
-When you get there, if you wouldn't mind giving our Daddy and my Mommy and Melvin and your In-Laws and the host of others who've gone before a whole bunch of really big hugs, we'd sure appreciate it. I sure would. Please tell them I love them and I miss them and I long to be with them. There's just a few things left here that I need to do. I promise I'll be home in time for dinner.
+When you get there, if you wouldn't mind giving our Daddy and my Mommy and Melvin and your In-Laws and the host of others who've gone before a whole bunch of really big hugs, we'd appreciate it. I sure would. Please tell them I love them and I miss them and I long to be with them. There's just a few things left here that I need to do. I promise I'll be home in time for dinner.
 
 I wish to give you the same words, the last words, I gave to my mom. I know that they are not the last words ever, only the last for now. For now, these too are my last words to you.
 
