@@ -27,11 +27,11 @@ My uncle is dying. Praying for a miracle cure at this point is the epitome of se
 
 To any of you besides my uncle, please forgive me for writing what follows. I'm sure these words will offer you no consolation, and probably only double your pain. We have no other choice than to view his death as an end. To us, still trapped in this world, we can only see it as a loss.
 
-But to my uncle, I wish to share my heart. I love you, and I could not live with myself if I selfishly did not give you this piece of myself, even though you will shortly leave it behind for better things.
+But to my uncle, I wish to share my heart. I love you, and I would be ashamed if I selfishly did not give you this piece of myself, even though you will shortly leave it behind for better things.
 
 I pray for you peace in these last fleeting moments surrounded by a handful of loved ones; soon to be surrounded by multitudes. That glimpse of peace I hope you now enjoy in the midst of pain will there be fully revealed. You are so close to hearing these words from our Father's lips.
 
-> His master replied, "Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!"
+> Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!
 
 You will be missed here, but not for long. These tears of sorrow will be transformed to tears of joy. Those cherished loved ones who sit now at your side will one day join you at the table.
 
