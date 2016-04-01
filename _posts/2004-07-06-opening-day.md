@@ -9,7 +9,6 @@ modified_time: '2008-04-22T21:13:51.141-05:00'
 blogger_id: tag:blogger.com,1999:blog-7551548.post-108914355688451146
 slug: opening-day
 redirect_from:
-- /opening-day/index.html
 - /2004/07/opening-day.html
 - /redirect/http://fuwjax.blogspot.com/2004/07/opening-day.html
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/opening-day.html

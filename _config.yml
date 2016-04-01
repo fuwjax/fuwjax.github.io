@@ -20,7 +20,7 @@ defaults:
 
 # Jekyll configuration
 
-permalink:   /:title
+permalink:   /:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -52,11 +52,11 @@ owner:
   google:
     plus: MikeDoberenz
     analytics: UA-62602420-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  disqus-shortname: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  disqus-shortname:
+  bing-verify:
   github: fuwjax
   stackoverflow: 315943/fuwjax
   linkedin: mikedoberenz
@@ -66,6 +66,7 @@ owner:
   tumblr: #username
   pinterest: #username
   foursquare: #username
+  kickstarter: fuwjax
   steam: fuwjax
   dribbble: #username
   youtube: fuwjax
