@@ -5,6 +5,7 @@ locale: en_US
 url: http://www.fuwjax.com
 timezone: America/Chicago
 encoding: utf-8
+exclude: [vendor]
 
 future: false
 lsi: false
@@ -28,7 +29,6 @@ sass:
   style: compressed
 gems:
   - jekyll-redirect-from
-exclude: [vendor]
 
 kramdown:
   auto_ids: true
