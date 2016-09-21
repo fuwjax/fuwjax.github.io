@@ -28,6 +28,7 @@ sass:
   style: compressed
 gems:
   - jekyll-redirect-from
+exclude: [vendor]
 
 kramdown:
   auto_ids: true
