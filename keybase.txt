@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/fuwjax
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.fuwjax.com
+  * I am fuwjax (https://keybase.io/fuwjax) on keybase.
+  * I have a public key ASCzSBJ7LG68-jT_Pf0mivygwzNGscooOaD6OclXRbkiCAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120391639305376738d35752729f00f474e953c99a824f765b1cc9c533862d303520a",
+            "host": "keybase.io",
+            "kid": "0120b348127b2c6ebcfa34ff3dfd268afca0c33346b1ca2839a0fa39c95745b922080a",
+            "uid": "575480618cd1fc16d4d0ea2c2a7a5819",
+            "username": "fuwjax"
+        },
+        "service": {
+            "hostname": "www.fuwjax.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474438931,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474438877,
+        "hash": "155683a009a63c715cc6308fefd3e3b5b8fd202d8b17aaeacb84a3231075c0026269220d15a5700bb58d3af28261345628e9c75a04bff8699fb87c70c09c9feb",
+        "seqno": 646323
+    },
+    "prev": "5d7cd6c685dc710fd40bac1f357865324049436bd50e5cb619524bba526609d1",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs0gSeyxuvPo0/z39Jor8oMMzRrHKKDmg+jnJV0W5IggKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzkxNjM5MzA1Mzc2NzM4ZDM1NzUyNzI5ZjAwZjQ3NGU5NTNjOTlhODI0Zjc2NWIxY2M5YzUzMzg2MmQzMDM1MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjM0ODEyN2IyYzZlYmNmYTM0ZmYzZGZkMjY4YWZjYTBjMzMzNDZiMWNhMjgzOWEwZmEzOWM5NTc0NWI5MjIwODBhIiwidWlkIjoiNTc1NDgwNjE4Y2QxZmMxNmQ0ZDBlYTJjMmE3YTU4MTkiLCJ1c2VybmFtZSI6ImZ1d2pheCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmZ1d2pheC5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc0NDM4OTMxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzQ0Mzg4NzcsImhhc2giOiIxNTU2ODNhMDA5YTYzYzcxNWNjNjMwOGZlZmQzZTNiNWI4ZmQyMDJkOGIxN2FhZWFjYjg0YTMyMzEwNzVjMDAyNjI2OTIyMGQxNWE1NzAwYmI1OGQzYWYyODI2MTM0NTYyOGU5Yzc1YTA0YmZmODY5OWZiODdjNzBjMDljOWZlYiIsInNlcW5vIjo2NDYzMjN9LCJwcmV2IjoiNWQ3Y2Q2YzY4NWRjNzEwZmQ0MGJhYzFmMzU3ODY1MzI0MDQ5NDM2YmQ1MGU1Y2I2MTk1MjRiYmE1MjY2MDlkMSIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDlxmh5i7ZBtXqtvd+QbVrcpn+m/L0JIPlvLSg4hUutkQeHkHXN/oC5TvjCxdVz+x47qjtVZgopvKTA/LobvRIIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg3EJIdst6cL8I5Jb0EKHylbzQ+JLWNXLG3RgjHqkVPDejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fuwjax
+
+==================================================================
