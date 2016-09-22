@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Heaven by Grace or Hell by Choice
 date: '2004-10-10T03:15:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109739635720216163
 slug: heaven-by-grace-or-hell-by-choice
 redirect_from: 
 - /2004/10/heaven-by-grace-or-hell-by-choice.html
-- /redirect/http://fuwjax.blogspot.com/2004/10/heaven-by-grace-or-hell-by-choice.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/10/heaven-by-grace-or-hell-by-choice.html
 ---
 

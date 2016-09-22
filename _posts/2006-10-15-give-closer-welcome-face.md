@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Give A Closer Welcome Face
 date: '2006-10-15T16:30:00.000-05:00'
 tags:
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116095299080770673
 slug: give-closer-welcome-face
 redirect_from: 
 - /2006/10/give-closer-welcome-face.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/give-closer-welcome-face.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/give-closer-welcome-face.html
 ---
 

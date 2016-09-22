@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Reflections on James 4:8a
 date: '2004-07-16T14:18:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109001218887933991
 slug: reflections-on-james-48a
 redirect_from: 
 - /2004/07/reflections-on-james-48a.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/reflections-on-james-48a.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/reflections-on-james-48a.html
 ---
 

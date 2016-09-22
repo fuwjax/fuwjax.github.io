@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Beauty Is Its Own Beholder
 date: '2012-06-22T03:28:00.001-05:00'
 tags: 
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4366726863692077908
 slug: beauty-is-its-own-beholder
 redirect_from: 
 - /2012/06/beauty-is-its-own-beholder.html
-- /redirect/http://fuwjax.blogspot.com/2012/06/beauty-is-its-own-beholder.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/06/beauty-is-its-own-beholder.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Best Man or the Lesser of Two Evils?
 date: '2004-07-26T16:57:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109087909659020820
 slug: best-man-or-lesser-of-two-evils
 redirect_from: 
 - /2004/07/best-man-or-lesser-of-two-evils.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/best-man-or-lesser-of-two-evils.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/best-man-or-lesser-of-two-evils.html
 ---
 

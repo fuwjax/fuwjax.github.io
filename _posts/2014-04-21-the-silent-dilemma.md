@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Silent Dilemma
 date: '2014-04-21T19:00:00.000-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-1863038106709834119
 slug: the-silent-dilemma
 redirect_from: 
 - /2014/04/the-silent-dilemma.html
-- /redirect/http://fuwjax.blogspot.com/2014/04/the-silent-dilemma.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2014/04/the-silent-dilemma.html
 ---
 

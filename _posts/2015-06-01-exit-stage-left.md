@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Exit, Stage Left
 slug: exit-stage-left
 date: '2015-06-01T03:11:00.000-05:00'

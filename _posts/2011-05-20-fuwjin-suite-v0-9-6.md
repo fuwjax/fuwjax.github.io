@@ -1,6 +1,6 @@
 ---
 title: Fuwjin Suite v0.9.6
-layout: post
+layout: single
 tags: 
 - de-machina
 date: '2011-05-20T05:47:00.002-05:00'

@@ -1,0 +1,16 @@
+---
+layout: archive
+author_profile: true
+excerpt: The misguided musings of a madman on a mission.
+---
+Clay pigeons are an unsatisfying kill - trivial to clean and the driest of cuisine. Their utility resides in training the mind and body to take aim and fire with confidence and consistency. So please, take aim where you will and fire as you may. My words are offered up not for sustenance but for target practice.
+
+{% include base_path %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

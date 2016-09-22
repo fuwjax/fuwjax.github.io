@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dating Dues and Donuts
 date: '2006-10-02T22:44:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-115985411946721084
 slug: dating-dues-and-donuts
 redirect_from: 
 - /2006/10/dating-dues-and-donuts.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/dating-dues-and-donuts.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/dating-dues-and-donuts.html
 ---
 

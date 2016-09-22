@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Class Riots
 date: '2004-07-26T21:06:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109089790380362557
 slug: class-riots
 redirect_from: 
 - /2004/07/class-riots.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/class-riots.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/class-riots.html
 ---
 

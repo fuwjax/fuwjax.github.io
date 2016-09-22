@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: single
 title: All Posts
 excerpt: The fragrant flagrant derangement of a vagrant hell-bent on your entertainment.
 ---

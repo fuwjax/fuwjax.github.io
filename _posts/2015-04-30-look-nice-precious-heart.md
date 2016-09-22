@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Look Nice Precious Heart
 slug: look-nice-precious-heart
 date: '2015-04-30T20:11:00.000-05:00'

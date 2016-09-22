@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hindsight Isn't Always 20/20
 date: '2004-08-08T16:11:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109200146349281583
 slug: hindsight-isnt-always-2020
 redirect_from: 
 - /2004/08/hindsight-isnt-always-2020.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/hindsight-isnt-always-2020.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/hindsight-isnt-always-2020.html
 ---
 

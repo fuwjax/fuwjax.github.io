@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Eulogy for Lorraine
 date: '2008-04-08T22:17:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4072841620699805361
 slug: eulogy-for-lorraine
 redirect_from: 
 - /2008/04/eulogy-for-lorraine.html
-- /redirect/http://fuwjax.blogspot.com/2008/04/eulogy-for-lorraine.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2008/04/eulogy-for-lorraine.html
 ---
 

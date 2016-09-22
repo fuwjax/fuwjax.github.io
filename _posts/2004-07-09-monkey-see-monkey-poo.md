@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Monkey See Monkey Poo
 date: '2004-07-09T13:37:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108940500506053141
 slug: monkey-see-monkey-poo
 redirect_from: 
 - /2004/07/monkey-see-monkey-poo.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/monkey-see-monkey-poo.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/monkey-see-monkey-poo.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Agile Golden Rule
-layout: post
+layout: single
 slug: the-agile-golden-rule
 redirect_from: /2008/04/the-agile-golden-rule/
 tags:

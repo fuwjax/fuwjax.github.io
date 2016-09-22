@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Unit You've All Been Waiting For
 date: '2008-10-18T22:40:00.003-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5958318890970167777
 slug: unit-youve-all-been-waiting-for
 redirect_from: 
 - /2008/10/unit-youve-all-been-waiting-for.html
-- /redirect/http://fuwjax.blogspot.com/2008/10/unit-youve-all-been-waiting-for.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2008/10/unit-youve-all-been-waiting-for.html
 ---
 

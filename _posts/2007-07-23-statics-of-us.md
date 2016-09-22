@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Statics of Us
 date: '2007-07-23T21:47:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-8959656684766175868
 slug: statics-of-us
 redirect_from: 
 - /2007/07/statics-of-us.html
-- /redirect/http://fuwjax.blogspot.com/2007/07/statics-of-us.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2007/07/statics-of-us.html
 ---
 

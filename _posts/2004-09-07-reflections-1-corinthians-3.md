@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Reflections: 1 Corinthians 3'
 date: '2004-09-07T01:14:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109453787584655655
 slug: reflections-1-corinthians-3
 redirect_from: 
 - /2004/09/reflections-1-corinthians-3.html
-- /redirect/http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-3.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-3.html
 ---
 

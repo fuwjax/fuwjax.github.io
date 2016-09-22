@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Blood and Water Mix Just Fine
 date: '2004-07-19T16:39:00.000-05:00'
 tags:
@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109027639672476337
 slug: blood-and-water-mix-just-fine
 redirect_from: 
 - /2004/07/blood-and-water-mix-just-fine.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/blood-and-water-mix-just-fine.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/blood-and-water-mix-just-fine.html
 ---
 

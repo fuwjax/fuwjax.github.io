@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Even In Riots
 date: '2011-08-21T05:47:00.002-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-764546946778949792
 slug: even-in-riots
 redirect_from: 
 - /2011/08/even-in-riots.html
-- /redirect/http://fuwjax.blogspot.com/2011/08/even-in-riots.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2011/08/even-in-riots.html
 ---
 

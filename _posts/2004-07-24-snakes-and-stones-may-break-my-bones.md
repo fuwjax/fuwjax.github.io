@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Snakes and Stones may break my Bones
 date: '2004-07-24T11:54:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109068879778631048
 slug: snakes-and-stones-may-break-my-bones
 redirect_from: 
 - /2004/07/snakes-and-stones-may-break-my-bones.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/snakes-and-stones-may-break-my-bones.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/snakes-and-stones-may-break-my-bones.html
 ---
 

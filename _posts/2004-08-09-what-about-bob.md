@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: What About Bob?
 date: '2004-08-09T08:43:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109206302089388955
 slug: what-about-bob
 redirect_from: 
 - /2004/08/what-about-bob.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/what-about-bob.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/what-about-bob.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: What Does That Look Like?
 slug: what-does-that-look-like
 date: '2015-05-10T23:11:00.000-05:00'

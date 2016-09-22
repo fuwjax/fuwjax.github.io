@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How to Fall in Love in Four Easy Steps
 date: '2015-01-13T02:39:00.000-06:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-8392270839491381094
 slug: how-to-fall-in-love-in-four-easy-steps
 redirect_from: 
 - /2015/01/how-to-fall-in-love-in-four-easy-steps.html
-- /redirect/http://fuwjax.blogspot.com/2015/01/how-to-fall-in-love-in-four-easy-steps.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2015/01/how-to-fall-in-love-in-four-easy-steps.html
 ---
 

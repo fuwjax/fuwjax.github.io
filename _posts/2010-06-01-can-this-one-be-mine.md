@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Can This One Be Mine
 date: '2010-06-01T20:13:00.002-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4570422373984617498
 slug: can-this-one-be-mine
 redirect_from: 
 - /2010/06/can-this-one-be-mine.html
-- /redirect/http://fuwjax.blogspot.com/2010/06/can-this-one-be-mine.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2010/06/can-this-one-be-mine.html
 ---
 

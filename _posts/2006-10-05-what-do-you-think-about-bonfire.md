@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'What Do You Think About Bonfire?'
 date: '2006-10-05T18:39:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116009317398531546
 slug: what-do-you-think-about-bonfire
 redirect_from: 
 - /2006/10/repost-what-do-you-think-about-bonfire.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/repost-what-do-you-think-about-bonfire.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/repost-what-do-you-think-about-bonfire.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: So Good Of You To Come
 date: '2008-04-12T18:45:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-2087898789104423268
 slug: so-good-of-you-to-come
 redirect_from: 
 - /2008/04/so-good-of-you-to-come.html
-- /redirect/http://fuwjax.blogspot.com/2008/04/so-good-of-you-to-come.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2008/04/so-good-of-you-to-come.html
 ---
 

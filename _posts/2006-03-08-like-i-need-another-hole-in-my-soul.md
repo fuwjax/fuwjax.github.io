@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Like I Need Another Hole In My Soul
 date: '2006-03-08T12:21:00.000-06:00'
 tags:
@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-114184382738727116
 slug: like-i-need-another-hole-in-my-soul
 redirect_from: 
 - /2006/03/like-i-need-another-hole-in-my-soul.html
-- /redirect/http://fuwjax.blogspot.com/2006/03/like-i-need-another-hole-in-my-soul.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/03/like-i-need-another-hole-in-my-soul.html
 ---
 

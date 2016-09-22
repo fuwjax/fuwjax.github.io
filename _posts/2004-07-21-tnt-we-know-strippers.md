@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'TNT: We Know Strippers'
 date: '2004-07-21T16:25:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109044739454015042
 slug: tnt-we-know-strippers
 redirect_from: 
 - /2004/07/tnt-we-know-strippers.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/tnt-we-know-strippers.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/tnt-we-know-strippers.html
 ---
 

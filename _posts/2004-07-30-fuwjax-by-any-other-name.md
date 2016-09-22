@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Fuwjax By Any Other Name...
 date: '2004-07-30T15:52:00.000-05:00'
 tags:
@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109122412414294657
 slug: fuwjax-by-any-other-name
 redirect_from: 
 - /2004/07/fuwjax-by-any-other-name.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/fuwjax-by-any-other-name.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/fuwjax-by-any-other-name.html
 ---
 

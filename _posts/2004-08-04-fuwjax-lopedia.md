@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: the Fuwjax-lopedia
 date: '2004-08-04T17:33:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109165961217294644
 slug: fuwjax-lopedia
 redirect_from: 
 - /2004/08/fuwjax-lopedia.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/fuwjax-lopedia.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/fuwjax-lopedia.html
 ---
 

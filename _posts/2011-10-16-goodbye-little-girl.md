@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Goodbye, Little Girl
 date: '2011-10-16T13:50:00.002-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6477695262605543217
 slug: goodbye-little-girl
 redirect_from: 
 - /2011/10/goodbye-little-girl.html
-- /redirect/http://fuwjax.blogspot.com/2011/10/goodbye-little-girl.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2011/10/goodbye-little-girl.html
 ---
 

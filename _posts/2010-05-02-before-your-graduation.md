@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Before Your Graduation
 date: '2010-05-02T14:58:00.004-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-2582470537531217919
 slug: before-your-graduation
 redirect_from: 
 - /2010/05/before-your-graduation.html
-- /redirect/http://fuwjax.blogspot.com/2010/05/before-your-graduation.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2010/05/before-your-graduation.html
 ---
 

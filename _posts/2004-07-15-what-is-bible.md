@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: What is the Bible?
 date: '2004-07-15T13:19:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108992323406828147
 slug: what-is-bible
 redirect_from: 
 - /2004/07/what-is-bible.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/what-is-bible.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/what-is-bible.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Mom's Request (Timmy Counts to Five)
 slug: moms-request
 date: '2014-04-21T21:24:00.000-05:00'
@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6511389425836178923
 slug: moms-request
 redirect_from: 
 - /2014/04/moms-request.html
-- /redirect/http://fuwjax.blogspot.com/2014/04/moms-request.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2014/04/moms-request.html
 ---
 

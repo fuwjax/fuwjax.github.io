@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Parable of the Pharisee and the Tax Collector
 date: '2004-08-30T17:20:00.000-05:00'
 tags:
@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109390168743199874
 slug: parable-of-pharisee-and-tax-collector
 redirect_from: 
 - /2004/08/parable-of-pharisee-and-tax-collector.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/parable-of-pharisee-and-tax-collector.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/parable-of-pharisee-and-tax-collector.html
 ---
 

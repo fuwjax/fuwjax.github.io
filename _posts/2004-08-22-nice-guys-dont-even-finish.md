@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Nice Guys Don't Even Finish
 date: '2004-08-22T03:30:00.000-05:00'
 tags:
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109316392583022019
 slug: nice-guys-dont-even-finish
 redirect_from: 
 - /2004/08/nice-guys-dont-even-finish.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/nice-guys-dont-even-finish.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/nice-guys-dont-even-finish.html
 ---
 

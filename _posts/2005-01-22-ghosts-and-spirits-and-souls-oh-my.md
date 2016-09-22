@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ghosts and Spirits and Souls, Oh My!
 date: '2005-01-22T01:06:00.000-06:00'
 tags:
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-110638064008306738
 slug: ghosts-and-spirits-and-souls-oh-my
 redirect_from: 
 - /2005/01/ghosts-and-spirits-and-souls-oh-my.html
-- /redirect/http://fuwjax.blogspot.com/2005/01/ghosts-and-spirits-and-souls-oh-my.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/01/ghosts-and-spirits-and-souls-oh-my.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Life + Universe + Everything = 23
 date: '2012-10-27T23:26:00.002-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5636944171963096210
 slug: life-universe-everything-23
 redirect_from: 
 - /2012/10/life-universe-everything-23.html
-- /redirect/http://fuwjax.blogspot.com/2012/10/life-universe-everything-23.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/10/life-universe-everything-23.html
 ---
 

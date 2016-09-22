@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Hugger of Trees
 slug: hugger-of-trees
 date: '2015-05-16T03:11:00.000-05:00'

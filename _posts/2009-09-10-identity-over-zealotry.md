@@ -1,6 +1,6 @@
 ---
 title: Identity over Zealotry
-layout: post
+layout: single
 tags:
 - de-machina
 excerpt: Just because I think there's a right way doesn't make it right.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: You of Little Faith - Reflections on Matt 14:22-36
 date: '2005-08-11T13:35:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-112380198300529053
 slug: you-of-little-faith-reflections-on
 redirect_from: 
 - /2005/08/you-of-little-faith-reflections-on.html
-- /redirect/http://fuwjax.blogspot.com/2005/08/you-of-little-faith-reflections-on.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/08/you-of-little-faith-reflections-on.html
 ---
 

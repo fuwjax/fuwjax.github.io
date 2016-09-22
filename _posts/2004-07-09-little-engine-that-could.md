@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Little Engine That Could
 date: '2004-07-09T09:15:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108938256661094138
 slug: little-engine-that-could
 redirect_from: 
 - /2004/07/little-engine-that-could.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/little-engine-that-could.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/little-engine-that-could.html
 ---
 

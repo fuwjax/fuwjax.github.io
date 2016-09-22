@@ -1,6 +1,6 @@
 ---
 title: Java Exception MicroBenchmark
-layout: post
+layout: single
 tags:
 - de-machina
 date: '2011-04-10T05:47:00.002-05:00'

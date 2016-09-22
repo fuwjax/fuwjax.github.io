@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: And They'll Know We Are Christian By Our Facebook Group
 date: '2008-02-23T00:38:00.001-06:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-895784357392902758
 slug: and-they-know-we-are-christian-by-our
 redirect_from: 
 - /2008/02/and-they-know-we-are-christian-by-our.html
-- /redirect/http://fuwjax.blogspot.com/2008/02/and-they-know-we-are-christian-by-our.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2008/02/and-they-know-we-are-christian-by-our.html
 ---
 

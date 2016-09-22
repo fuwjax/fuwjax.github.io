@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sing Us a Song, You're the Local Band
 date: '2004-07-12T10:49:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108965719733134607
 slug: sing-us-song-youre-local-band
 redirect_from: 
 - /2004/07/sing-us-song-youre-local-band.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/sing-us-song-youre-local-band.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/sing-us-song-youre-local-band.html
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dreams in Color
 date: '2013-03-18T19:42:00.000-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-3426746903761854659
 slug: dreams-in-color
 redirect_from: 
 - /2013/03/dreams-in-color.html
-- /redirect/http://fuwjax.blogspot.com/2013/03/dreams-in-color.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2013/03/dreams-in-color.html
 ---
 

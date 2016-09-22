@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: My Big Fat Greek Olympics
 date: '2004-08-17T19:01:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109278917797316568
 slug: my-big-fat-greek-olympics
 redirect_from: 
 - /2004/08/my-big-fat-greek-olympics.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/my-big-fat-greek-olympics.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/my-big-fat-greek-olympics.html
 ---
 

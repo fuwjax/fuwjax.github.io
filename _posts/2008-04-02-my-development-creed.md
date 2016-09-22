@@ -1,6 +1,6 @@
 ---
 title: My Development Creed
-layout: post
+layout: single
 tags:
 - de-machina
 excerpt: I believe software development is a conversation.

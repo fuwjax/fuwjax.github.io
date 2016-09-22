@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: That One Has Explained Him Fully
 date: '2006-09-21T19:36:00.000-05:00'
 tags:
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-115889615119619747
 slug: that-one-has-explained-him-fully
 redirect_from: 
 - /2006/09/that-one-has-explained-him-fully.html
-- /redirect/http://fuwjax.blogspot.com/2006/09/that-one-has-explained-him-fully.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/09/that-one-has-explained-him-fully.html
 ---
 

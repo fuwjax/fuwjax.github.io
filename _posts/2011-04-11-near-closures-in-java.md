@@ -1,6 +1,6 @@
 ---
 title: Near-Closures in Java
-layout: post
+layout: single
 tags:
 - de-machina
 excerpt: Closures in Java are always a ripe source for debate, discussion, flame wars, angst ridden blog posts about the joys of other languages, etc.
@@ -60,7 +60,7 @@ public class WhenUsingFunky{
   @Test
   public void test(){
     final String name = "Bob";
-    class V extends Funky<String>{{ret = greet + " " + name;}}
+    class V extends Funky<String>{ {ret = greet + " " + name;} }
     assertThat(doSomething(V.class), is("howdy Bob"));
   }
 

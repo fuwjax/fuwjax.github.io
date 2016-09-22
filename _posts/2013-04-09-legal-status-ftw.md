@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Legal Status FTW
 date: '2013-04-09T04:47:00.000-05:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5558359966105123956
 slug: legal-status-ftw
 redirect_from: 
 - /2013/04/legal-status-ftw.html
-- /redirect/http://fuwjax.blogspot.com/2013/04/legal-status-ftw.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2013/04/legal-status-ftw.html
 ---
 

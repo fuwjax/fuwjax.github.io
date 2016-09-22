@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Who's On First, Fuwjax Is Off
 date: '2008-11-30T13:29:00.002-06:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6073646716024991529
 slug: whos-on-first-fuwjax-is-off
 redirect_from: 
 - /2008/11/whos-on-first-fuwjax-is-off.html
-- /redirect/http://fuwjax.blogspot.com/2008/11/whos-on-first-fuwjax-is-off.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2008/11/whos-on-first-fuwjax-is-off.html
 ---
 

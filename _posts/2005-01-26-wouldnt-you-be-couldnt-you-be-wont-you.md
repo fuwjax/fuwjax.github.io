@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Wouldn't You Be, Couldn't You Be, Won't You Be In My Family
 date: '2005-01-26T12:52:00.000-06:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-110672238650947451
 slug: wouldnt-you-be-couldnt-you-be-wont-you
 redirect_from: 
 - /2005/01/wouldnt-you-be-couldnt-you-be-wont-you.html
-- /redirect/http://fuwjax.blogspot.com/2005/01/wouldnt-you-be-couldnt-you-be-wont-you.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/01/wouldnt-you-be-couldnt-you-be-wont-you.html
 ---
 

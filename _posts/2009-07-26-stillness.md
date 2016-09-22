@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Stillness
 date: '2009-07-26T20:25:00.004-05:00'
 tags: 
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5705026232609844752
 slug: stillness
 redirect_from: 
 - /2009/07/stillness.html
-- /redirect/http://fuwjax.blogspot.com/2009/07/stillness.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2009/07/stillness.html
 ---
 

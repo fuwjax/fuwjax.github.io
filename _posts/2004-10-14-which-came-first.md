@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Which Came First?
 date: '2004-10-14T13:52:00.000-05:00'
 tags:
@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109777674258600537
 slug: which-came-first
 redirect_from: 
 - /2004/10/which-came-first.html
-- /redirect/http://fuwjax.blogspot.com/2004/10/which-came-first.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/10/which-came-first.html
 ---
 

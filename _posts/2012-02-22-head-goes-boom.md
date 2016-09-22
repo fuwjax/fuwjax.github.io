@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Head Goes Boom
 date: '2012-02-22T03:46:00.000-06:00'
 tags: 
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-3134473277945324042
 slug: head-goes-boom
 redirect_from: 
 - /2012/02/head-goes-boom.html
-- /redirect/http://fuwjax.blogspot.com/2012/02/head-goes-boom.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/02/head-goes-boom.html
 ---
 

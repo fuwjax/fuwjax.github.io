@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Freight Elevator
 slug: freight-elevator
 date: '2016-03-14T23:11:00.000-05:00'

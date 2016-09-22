@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Opening Day
 date: '2004-07-06T12:18:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108914355688451146
 slug: opening-day
 redirect_from:
 - /2004/07/opening-day.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/opening-day.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/opening-day.html
 ---
 
@@ -31,7 +31,7 @@ There is an absolute truth.  There is only One God.  He died.
 
 That's how I know it's true.  No one would dream up a weak pitiful God like that.  No one wants a dead God.
 
-Maybe that's why He came back from the dead.  Not as a ghost, not as someone or something else.  The same guy, the same God, rose from the dead.  
+Maybe that's why He came back from the dead.  Not as a ghost, not as someone or something else.  The same guy, the same God, rose from the dead.
 
 Then it turns out that He didn't do this just to prove a point.  It wasn't some sort of divine thrill ride.  He paid my punishment, the punishment I deserve, and His death bought me my freedom.
 

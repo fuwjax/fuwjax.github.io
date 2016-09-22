@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Politics of Desire
 date: '2006-10-22T22:49:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116157937600068580
 slug: politics-of-desire
 redirect_from: 
 - /2006/10/politics-of-desire.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/politics-of-desire.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/politics-of-desire.html
 ---
 

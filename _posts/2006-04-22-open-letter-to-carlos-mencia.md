@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: An Open Letter to Carlos Mencia
 date: '2006-04-22T00:01:00.000-05:00'
 tags:
@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-114568307132457606
 slug: open-letter-to-carlos-mencia
 redirect_from: 
 - /2006/04/open-letter-to-carlos-mencia.html
-- /redirect/http://fuwjax.blogspot.com/2006/04/open-letter-to-carlos-mencia.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/04/open-letter-to-carlos-mencia.html
 ---
 
