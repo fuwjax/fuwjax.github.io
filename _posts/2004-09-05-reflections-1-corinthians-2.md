@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109436853970250697
 slug: reflections-1-corinthians-2
 redirect_from: 
 - /2004/09/reflections-1-corinthians-2.html
-- /redirect/http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/reflections-1-corinthians-2.html
 ---
 

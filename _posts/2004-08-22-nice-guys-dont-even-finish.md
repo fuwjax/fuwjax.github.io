@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109316392583022019
 slug: nice-guys-dont-even-finish
 redirect_from: 
 - /2004/08/nice-guys-dont-even-finish.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/nice-guys-dont-even-finish.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/nice-guys-dont-even-finish.html
 ---
 

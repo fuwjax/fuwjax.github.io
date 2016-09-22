@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5043746606834498285
 slug: take-little-dip
 redirect_from: 
 - /2012/02/take-little-dip.html
-- /redirect/http://fuwjax.blogspot.com/2012/02/take-little-dip.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/02/take-little-dip.html
 ---
 

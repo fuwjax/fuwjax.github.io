@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-111682163675702781
 slug: third-and-final-toast
 redirect_from: 
 - /2005/05/third-and-final-toast.html
-- /redirect/http://fuwjax.blogspot.com/2005/05/third-and-final-toast.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/05/third-and-final-toast.html
 ---
 

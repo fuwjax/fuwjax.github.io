@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-111890627657205950
 slug: miracle-maxs-planetary-perplexion
 redirect_from: 
 - /2005/06/miracle-maxs-planetary-perplexion.html
-- /redirect/http://fuwjax.blogspot.com/2005/06/miracle-maxs-planetary-perplexion.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/06/miracle-maxs-planetary-perplexion.html
 ---
 

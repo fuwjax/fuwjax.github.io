@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109652665096593745
 slug: broken-and-empty
 redirect_from: 
 - /2004/09/broken-and-empty.html
-- /redirect/http://fuwjax.blogspot.com/2004/09/broken-and-empty.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/broken-and-empty.html
 ---
 

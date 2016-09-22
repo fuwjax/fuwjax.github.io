@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-113584337093093850
 slug: out-with-bang
 redirect_from: 
 - /2005/12/out-with-bang.html
-- /redirect/http://fuwjax.blogspot.com/2005/12/out-with-bang.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/12/out-with-bang.html
 ---
 

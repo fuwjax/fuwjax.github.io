@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4270469554619956101
 slug: i-do-you-do-we-all-do-for-ice
 redirect_from: 
 - /2012/07/i-do-you-do-we-all-do-for-ice.html
-- /redirect/http://fuwjax.blogspot.com/2012/07/i-do-you-do-we-all-do-for-ice.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/07/i-do-you-do-we-all-do-for-ice.html
 ---
 

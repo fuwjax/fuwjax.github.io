@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108914686970723599
 slug: tale-of-two-weddings
 redirect_from: 
 - /2004/07/tale-of-two-weddings.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/tale-of-two-weddings.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/tale-of-two-weddings.html
 ---
 

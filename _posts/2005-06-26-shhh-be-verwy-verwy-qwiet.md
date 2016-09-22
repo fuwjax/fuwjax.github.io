@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-111984631679409769
 slug: shhh-be-verwy-verwy-qwiet
 redirect_from: 
 - /2005/06/shhh-be-verwy-verwy-qwiet.html
-- /redirect/http://fuwjax.blogspot.com/2005/06/shhh-be-verwy-verwy-qwiet.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/06/shhh-be-verwy-verwy-qwiet.html
 ---
 

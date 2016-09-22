@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108923965827313339
 slug: how-fuwjax-got-his-name-back
 redirect_from: 
 - /2004/07/how-fuwjax-got-his-name-back.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/how-fuwjax-got-his-name-back.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/how-fuwjax-got-his-name-back.html
 ---
 

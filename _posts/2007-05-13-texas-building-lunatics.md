@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4121395586147066204
 slug: texas-building-lunatics
 redirect_from: 
 - /2007/05/texas-building-lunatics.html
-- /redirect/http://fuwjax.blogspot.com/2007/05/texas-building-lunatics.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2007/05/texas-building-lunatics.html
 ---
 

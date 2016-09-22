@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116046352633074648
 slug: politics-of-attention
 redirect_from: 
 - /2006/10/politics-of-attention.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/politics-of-attention.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/politics-of-attention.html
 ---
 

@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-7902035855551127439
 slug: beautiful
 redirect_from: 
 - /2013/10/beautiful.html
-- /redirect/http://fuwjax.blogspot.com/2013/10/beautiful.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2013/10/beautiful.html
 ---
 

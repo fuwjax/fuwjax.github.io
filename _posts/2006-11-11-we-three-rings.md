@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-5424253162576611584
 slug: we-three-rings
 redirect_from: 
 - /2006/11/we-three-rings.html
-- /redirect/http://fuwjax.blogspot.com/2006/11/we-three-rings.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/11/we-three-rings.html
 ---
 

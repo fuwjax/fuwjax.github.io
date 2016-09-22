@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109408185676613981
 slug: evolution-anigans
 redirect_from: 
 - /2004/09/evolution-anigans.html
-- /redirect/http://fuwjax.blogspot.com/2004/09/evolution-anigans.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/09/evolution-anigans.html
 ---
 

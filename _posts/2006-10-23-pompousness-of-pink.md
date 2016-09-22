@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116165841564877211
 slug: pompousness-of-pink
 redirect_from: 
 - /2006/10/pompousness-of-pink.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/pompousness-of-pink.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/pompousness-of-pink.html
 ---
 

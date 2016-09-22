@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108991427892789869
 slug: law-of-averages
 redirect_from: 
 - /2004/07/law-of-averages.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/law-of-averages.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/law-of-averages.html
 ---
 

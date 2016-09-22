@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6454211525692837633
 slug: so-youre-retiring
 redirect_from: 
 - /2012/04/so-youre-retiring.html
-- /redirect/http://fuwjax.blogspot.com/2012/04/so-youre-retiring.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/04/so-youre-retiring.html
 ---
 

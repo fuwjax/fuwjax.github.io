@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-112378518488267894
 slug: garlic-wings
 redirect_from: 
 - /2005/08/garlic-wings.html
-- /redirect/http://fuwjax.blogspot.com/2005/08/garlic-wings.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/08/garlic-wings.html
 ---
 

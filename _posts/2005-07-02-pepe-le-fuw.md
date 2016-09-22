@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-112029506078744585
 slug: pepe-le-fuw_02
 redirect_from: 
 - /2005/07/pepe-le-fuw_02.html
-- /redirect/http://fuwjax.blogspot.com/2005/07/pepe-le-fuw_02.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/07/pepe-le-fuw_02.html
 ---
 

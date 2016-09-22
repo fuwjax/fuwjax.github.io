@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109088054211726575
 slug: when-will-i-look-back-and-laugh
 redirect_from: 
 - /2004/07/when-will-i-look-back-and-laugh.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/when-will-i-look-back-and-laugh.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/when-will-i-look-back-and-laugh.html
 ---
 

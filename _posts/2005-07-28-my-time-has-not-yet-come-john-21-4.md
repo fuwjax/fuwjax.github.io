@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-112258879908067650
 slug: my-time-has-not-yet-come-john-21-4
 redirect_from: 
 - /2005/07/my-time-has-not-yet-come-john-21-4.html
-- /redirect/http://fuwjax.blogspot.com/2005/07/my-time-has-not-yet-come-john-21-4.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2005/07/my-time-has-not-yet-come-john-21-4.html
 ---
 

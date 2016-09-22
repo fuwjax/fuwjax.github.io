@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6033935933077904836
 slug: social-contract-what
 redirect_from: 
 - /2013/04/social-contract-what.html
-- /redirect/http://fuwjax.blogspot.com/2013/04/social-contract-what.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2013/04/social-contract-what.html
 ---
 

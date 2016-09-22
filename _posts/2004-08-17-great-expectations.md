@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109272044340362314
 slug: great-expectations
 redirect_from: 
 - /2004/08/great-expectations.html
-- /redirect/http://fuwjax.blogspot.com/2004/08/great-expectations.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/08/great-expectations.html
 ---
 

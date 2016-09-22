@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-4497411480850195758
 slug: the-honorable-rupert-arturo-murdoch
 redirect_from:
 - /2013/08/the-honorable-rupert-arturo-murdoch.html
-- /redirect/http://fuwjax.blogspot.com/2013/08/the-honorable-rupert-arturo-murdoch.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2013/08/the-honorable-rupert-arturo-murdoch.html
 ---
 

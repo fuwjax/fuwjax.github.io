@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-116002926393314845
 slug: psuedo-science-of-dating
 redirect_from: 
 - /2006/10/psuedo-science-of-dating.html
-- /redirect/http://fuwjax.blogspot.com/2006/10/psuedo-science-of-dating.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2006/10/psuedo-science-of-dating.html
 ---
 

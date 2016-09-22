@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6626219566798209334
 slug: real-good-thing
 redirect_from: 
 - /2014/09/real-good-thing.html
-- /redirect/http://fuwjax.blogspot.com/2014/09/real-good-thing.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2014/09/real-good-thing.html
 ---
 

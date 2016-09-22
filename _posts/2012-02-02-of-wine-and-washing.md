@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-1837727850034769971
 slug: of-wine-and-washing
 redirect_from: 
 - /2012/02/of-wine-and-washing.html
-- /redirect/http://fuwjax.blogspot.com/2012/02/of-wine-and-washing.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/02/of-wine-and-washing.html
 ---
 

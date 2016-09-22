@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109772452456281834
 slug: sing-little-song
 redirect_from: 
 - /2004/10/sing-little-song.html
-- /redirect/http://fuwjax.blogspot.com/2004/10/sing-little-song.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/10/sing-little-song.html
 ---
 

@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-8029857605235291563
 slug: token-acts-of-service
 redirect_from: 
 - /2010/11/token-acts-of-service.html
-- /redirect/http://fuwjax.blogspot.com/2010/11/token-acts-of-service.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2010/11/token-acts-of-service.html
 ---
 

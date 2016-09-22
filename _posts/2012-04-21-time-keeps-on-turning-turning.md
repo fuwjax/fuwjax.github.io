@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-2247058273197643267
 slug: time-keeps-on-turning-turning
 redirect_from: 
 - /2012/04/time-keeps-on-turning-turning.html
-- /redirect/http://fuwjax.blogspot.com/2012/04/time-keeps-on-turning-turning.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2012/04/time-keeps-on-turning-turning.html
 ---
 

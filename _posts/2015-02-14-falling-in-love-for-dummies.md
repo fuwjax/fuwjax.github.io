@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-9099883327216959492
 slug: falling-in-love-for-dummies
 redirect_from: 
 - /2015/02/falling-in-love-for-dummies.html
-- /redirect/http://fuwjax.blogspot.com/2015/02/falling-in-love-for-dummies.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2015/02/falling-in-love-for-dummies.html
 ---
 You might be confused, since we just covered this topic in a recent post. But let's face it, if that's the easy way of falling in love, it's easier to just wait for it to happen randomly.

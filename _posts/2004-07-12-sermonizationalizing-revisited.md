@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108967061731253975
 slug: sermonizationalizing-revisited
 redirect_from: 
 - /2004/07/sermonizationalizing-revisited.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/sermonizationalizing-revisited.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/sermonizationalizing-revisited.html
 ---
 

@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6578549113946981784
 slug: what-sacrifice
 redirect_from: 
 - /2009/08/what-sacrifice.html
-- /redirect/http://fuwjax.blogspot.com/2009/08/what-sacrifice.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2009/08/what-sacrifice.html
 ---
 

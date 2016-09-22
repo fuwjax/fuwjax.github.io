@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-108921999844661655
 slug: pillar-of-fire
 redirect_from: 
 - /2004/07/pillar-of-fire.html
-- /redirect/http://fuwjax.blogspot.com/2004/07/pillar-of-fire.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/07/pillar-of-fire.html
 ---
 

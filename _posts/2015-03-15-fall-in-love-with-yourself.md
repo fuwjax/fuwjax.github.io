@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-6378910755422398181
 slug: fall-in-love-with-yourself
 redirect_from: 
 - /2015/03/fall-in-love-with-yourself.html
-- /redirect/http://fuwjax.blogspot.com/2015/03/fall-in-love-with-yourself.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2015/03/fall-in-love-with-yourself.html
 ---
 

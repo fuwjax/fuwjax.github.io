@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-7551548.post-109875777122469944
 slug: how-sorry-is-too-sorry
 redirect_from: 
 - /2004/10/how-sorry-is-too-sorry.html
-- /redirect/http://fuwjax.blogspot.com/2004/10/how-sorry-is-too-sorry.html
+
 blogger_orig_url: http://fuwjax.blogspot.com/2004/10/how-sorry-is-too-sorry.html
 ---
 
