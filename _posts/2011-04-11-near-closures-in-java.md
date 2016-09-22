@@ -60,7 +60,7 @@ public class WhenUsingFunky{
   @Test
   public void test(){
     final String name = "Bob";
-    class V extends Funky<String>{{ret = greet + " " + name;}}
+    class V extends Funky<String>{ {ret = greet + " " + name;} }
     assertThat(doSomething(V.class), is("howdy Bob"));
   }
 
