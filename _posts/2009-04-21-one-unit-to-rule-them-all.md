@@ -23,19 +23,19 @@ The key here is that performing any operation on Mike Units results in a Mike Un
 
 In my previous post, I mentioned that you can't cancel Mike Units, so moving from 1MU + 1MU = 1MU to the seemingly identical expression 1MU - 1MU = 1MU is actually quite difficult. Let's look at what would happen with normal numbers:
 
-1 + 1 = 2
-1 + 1 - 1 = 2 - 1
-1 + 0 = 2 - 1
-1 = 2 - 1
+1 + 1 = 2  
+1 + 1 - 1 = 2 - 1  
+1 + 0 = 2 - 1  
+1 = 2 - 1  
 
 Here we subtracted 1 from both sides because subtraction is a special kind of operation that preserves equality when it is applied to both sides of an equality relationship. Then because 1 - 1 is 0 and something + 0 is the something, we wind up where we expected to be, namely that 1 + 1 = 2 implies that 1 = 2 - 1. The fact that we can apply an operation to both sides that in effect reduces one of the operands to zero is what we refer to as canceling.
 
 Now let's break down what happens if we try to follow the same logic with Mike Units:
 
-1MU + 1MU = 1MU
-1MU + 1MU - 1MU = 1MU - 1MU
-1MU + 1MU = 1MU - 1MU
-1MU = 1MU - 1MU
+1MU + 1MU = 1MU  
+1MU + 1MU - 1MU = 1MU - 1MU  
+1MU + 1MU = 1MU - 1MU  
+1MU = 1MU - 1MU  
 
 Notice here that subtraction is again equality preserving, so we were able to subtract the 1MU from both sides and still have equality. But on the next line, notice that we did not reduce that 1MU to zero. Instead, it remained one Mike Unit. Then we used the fact that 1MU + 1MU = 1MU to wind up with the final equation. But we never canceled by taking something to zero.
 

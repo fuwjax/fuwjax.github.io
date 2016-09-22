@@ -35,14 +35,13 @@ But she's leaving soon. I don't know if you've ever lost your ass, and I'm not t
 
 ### Ode to My Ass
 
-> Without you, I'm just smart
-> Without you, I'm just dumb
-> Without you, there's nowhere to sit
-> and nowhere to stick my thumb
-> Since you said you were leaving
-> the life has drained from my soul
-> and there's nothing left in my heart
-> except this big ass hole.
+> Without you, I'm just smart  
+> Without you, I'm just dumb  
+> Without you, there's nowhere to sit  
+> and nowhere to stick my thumb  
+> Since you said you were leaving  
+> the life has drained from my soul  
+> and there's nothing left in my heart  
+> except this big ass hole.  
 
 So lift your beer and toast my ass.  May it never drag for long.
-

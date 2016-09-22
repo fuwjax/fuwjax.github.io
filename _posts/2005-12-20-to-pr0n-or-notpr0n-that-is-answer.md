@@ -42,12 +42,12 @@ So I thought to myself, wouldn't it be great to have a bot that worked like a ca
 
 I thought this was a great idea, and worked up a good first draft by about 5am.  It had a pretty simple interface and a reasonably robust design.  I figured I'd give it a quick test and then head to bed.  So I had it join the channel and was almost immediately met with the following
 
-> Hal9k1: what the heck
-> Hal9k1: Fuwjax - what the hell?
-> Fuwjax: hey man, if it bothers you, I'll yank it
-> Fuwjax: didn't mean to bug you
-> Fuwjax: I was just testing an idea during a low traffic time
-> Hal9k1: a) what do we need a 3rd bot for, b) why are you three times in here, and c) pirc is an irc worm
+> Hal9k1: what the heck  
+> Hal9k1: Fuwjax - what the hell?  
+> Fuwjax: hey man, if it bothers you, I'll yank it  
+> Fuwjax: didn't mean to bug you  
+> Fuwjax: I was just testing an idea during a low traffic time  
+> Hal9k1: a) what do we need a 3rd bot for, b) why are you three times in here, and c) pirc is an irc worm  
 
 Now, don't get me wrong.  In hindsight that was a pretty stupid thing to do.  But at 5 in the morning, you don't always process the consequences of your actions.  And to think I had brought a worm on the channel... man, I was choking on my stomach.  Well, Hal and I talked for a while.  It turns out that the pirc I was using is not a worm and he did think the help bot wasn't a horrible idea, just not something the channel needs.  And hopefully he doesn't think I was trying to spam the channel (Hal, if you by some chance ever make it to this page, you should be able to find the code <a href ="http://ctp2nd.com/fuwjax/notpron/NotpronHelpBot.zip" title="Long long gone" class="lemonink">here</a>.)  But as I was leaving, he asked what puzzle I was on.  He then went on to ask me how long it took me to finish level 22, clearly a hint (in hindsight, the best hint I was given.)  
 
@@ -65,46 +65,46 @@ And then I realized that I had to make a decision right away.  I either had to k
 
 I went back to 40.  I'd rather never find the answer than find out I can't trust the puzzle creator.  But still, I found nothing.  I was desperate, I would have to ask for a hint on the channel.
 
-> Fuwjax: in the last three days, I have found the only springerle mold carver in Texas, successfully found Christmas gifts for the two pickiest women on the planet, found a way to almost painlessly make java code i18n-able, and even found a way to not get banned after pissing Hal off.
-> Fuwjax: I have not however, in those same three days, found the answer to level 40
-> Fuwjax: so.. um... anyone have a little free time to help a brother out?
-> Grog: Are you black?
-> steve: yes
+> Fuwjax: in the last three days, I have found the only springerle mold carver in Texas, successfully found Christmas gifts for the two pickiest women on the planet, found a way to almost painlessly make java code i18n-able, and even found a way to not get banned after pissing Hal off.  
+> Fuwjax: I have not however, in those same three days, found the answer to level 40  
+> Fuwjax: so.. um... anyone have a little free time to help a brother out?  
+> Grog: Are you black?  
+> steve: yes  
 
 Am I black?  What self respecting black man drives all over Texas looking for a springerle mold carver?  But it doesn't matter, I know that no matter what I say, I'm about to be sorry I even said anything.  Grog and steve are ruthless, even more so when they're together.  Might as well try to keep them confused and duck out as gracefully as possible; the ol' smoke and mirrors trick.
 
-> Fuwjax: not any more
-> Fuwjax: went to high school in the projects, went to college in central Texas
-> Fuwjax: but if saying yes means I can get help on 40, I don't mind lying
-> Grog: Not any more?
-> Grog: You were black but, now you're not?
-> Fuwjax: right
-> Grog: MICHAEL JACKSON
-> Grog: * Added *!*Fuwjax@* to ignore list
-> steve: michael jackson
-> Fuwjax: damn... I knew it was a test
-> Fuwjax: you clearly have never been to central Texas
-> Fuwjax: it'll suck the black right out of you
-> Grog: Heh
-> Fuwjax: I swore I'd never buy boots, never buy a hat, and I'd sure as hell never two step
-> Fuwjax: now I only wear boots, I love country dance halls, and I'm sad to say... I bought a hat last April
+> Fuwjax: not any more  
+> Fuwjax: went to high school in the projects, went to college in central Texas  
+> Fuwjax: but if saying yes means I can get help on 40, I don't mind lying  
+> Grog: Not any more?  
+> Grog: You were black but, now you're not?  
+> Fuwjax: right  
+> Grog: MICHAEL JACKSON  
+> Grog: * Added *!*Fuwjax@* to ignore list  
+> steve: michael jackson  
+> Fuwjax: damn... I knew it was a test  
+> Fuwjax: you clearly have never been to central Texas  
+> Fuwjax: it'll suck the black right out of you  
+> Grog: Heh  
+> Fuwjax: I swore I'd never buy boots, never buy a hat, and I'd sure as hell never two step  
+> Fuwjax: now I only wear boots, I love country dance halls, and I'm sad to say... I bought a hat last April  
 
 Alright... out of that one.  Still no help on 40, but tomorrow is another day.
 
 So the next day in #notpron, MrCube comes asking for help on an unrelated issue, and we get to talking about level 40.  
 
-> Fuwjax: well, I can tell you what I've done, if you'd like
-> Fuwjax: it's clearly the pic from puzzle 12
-> Fuwjax: with a bunch of the items removed
-> Fuwjax: and the remote turned to face the bed
-> MrCube: Yeah
-> MrCube: But you need not know any of that
-> MrCube: The answer is literally on the screen
-> Fuwjax: haha, I figured as much
-> MrCube: Anything look odd?
-> Fuwjax: the 40 has a halo
-> MrCube: A halo eh
-> MrCube: Wonder what it is
+> Fuwjax: well, I can tell you what I've done, if you'd like  
+> Fuwjax: it's clearly the pic from puzzle 12  
+> Fuwjax: with a bunch of the items removed  
+> Fuwjax: and the remote turned to face the bed  
+> MrCube: Yeah  
+> MrCube: But you need not know any of that  
+> MrCube: The answer is literally on the screen  
+> Fuwjax: haha, I figured as much  
+> MrCube: Anything look odd?  
+> Fuwjax: the 40 has a halo  
+> MrCube: A halo eh  
+> MrCube: Wonder what it is  
 
 So I pull out the Gimp, zoom in on the 40, play with the colors for a bit, and viola, the answer appears.  I could have cried.
 

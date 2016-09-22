@@ -30,27 +30,27 @@ I've complained about the music in church before, and I really feel like the mus
 
 Most of this frustration surfaced tonight by a song I love to sing, "Come Thou Fount". It's one of those songs I fall back on. It sounds pretty, the lyrics are poetic-ish, and it reminds me of some wonderful times in my past. Every denomination seems to have their own version, but in all the times I've sang it, we've always ended with something roughly equivalent to this verse:
 
-> O to grace how great a debtor
-Daily I’m constrained to be!
-Let Thy goodness, like a fetter,
-Bind my wandering heart to Thee.
-Prone to wander, Lord, I feel it,
-Prone to leave the God I love;
-Here’s my heart, O take and seal it,
-Seal it for Thy courts above.
+> O to grace how great a debtor  
+Daily I’m constrained to be!  
+Let Thy goodness, like a fetter,  
+Bind my wandering heart to Thee.  
+Prone to wander, Lord, I feel it,  
+Prone to leave the God I love;  
+Here’s my heart, O take and seal it,  
+Seal it for Thy courts above.  
 
 Now I do love this verse, and I deconstruct it out of love, but look at all that "me" language. We start off with "oh look how horrible I am" then follow it with "please passively do this one thing for me so I'll be good." Then we go on to "I'm going to turn my back on you as soon as the song is over" but then somehow have the gall to say "But here's my heart, you can keep that in a little box just for yourself."
 
 So imagine how I felt when I saw that the real last verse is the following:
 
-> O that day when freed from sinning,
-I shall see Thy lovely face;
-Clothed then in blood washed linen
-How I’ll sing Thy sovereign grace;
-Come, my Lord, no longer tarry,
-Take my ransomed soul away;
-Send thine angels now to carry
-Me to realms of endless day.
+> O that day when freed from sinning,  
+I shall see Thy lovely face;  
+Clothed then in blood washed linen  
+How I’ll sing Thy sovereign grace;  
+Come, my Lord, no longer tarry,  
+Take my ransomed soul away;  
+Send thine angels now to carry  
+Me to realms of endless day.  
 
 There's still a ton of "me" language, but at least we're indirectly talking about God being God again. "O that day when freed from sinning" It's passive, but at least it refers to the day when God will come again to raise His children from the grave. God will come. God will raise us up. 
 
@@ -63,4 +63,3 @@ When He does come, He will take my soul, the soul He ransomed on the cross, to t
 And by His own hand that day will come, and when it does He will carry me to His home, our home, the home He has prepared. And that new day will be endless. Amen.
 
 So praise Him. Praise the Father, Son, and Holy Ghost. Praise Him for all that He has done. Praise Him for the promises He has kept, He is keeping, and He will keep. Praise Him for His love, His grace, His mercy, His beauty, His majesty. Praise Him and Him alone.
-
